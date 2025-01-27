@@ -1,13 +1,12 @@
 export class Fitbod {
-    Date: string = "";
-    "Distance(m)": string = "";
-    "Duration(s)": string = "";
-    Exercise: string = "";
-    Incline: string = "";
-    Note: string = "";
-    Reps: string = "";
-    Resistance: string = "";
-    "Weight(kg)": string = "";
-    isWarmup: string = "";
-    multiplier: string = "";
+  date: string = '';
+  distance_meters: string = '';
+  duration_seconds: string = '';
+  exercise_name: string = '';
+  Incline: string = '';
+  Reps: string = '';
+  Resistance: string = '';
+  weight_kg: string = '';
+  isWarmup: string = '';
+  multiplier: string = '';
 }
