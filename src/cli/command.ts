@@ -1,8 +1,18 @@
 import yargs from "yargs";
 import { hideBin } from "yargs/helpers";
-import { bulkPublish, convert, publish } from "./handler";
+import { bulkPublish, convert, publish, setAPIKey } from "./handler";
 
 yargs(hideBin(process.argv))
+  .command(
+    "set-api-key <apiKey>",
+    "Sets the API key for the Hevy API",
+    (yargs) =>
+      yargs.positional("apiKey", {
+        description: "Your Hevy API key",
+        type: "string",
+      }),
+    (argv) => setAPIKey(argv.apiKey as string)
+  )
   .command(
     "convert <fitbodFilePath>",
     "Converts a Fitbod CSV file to an organized Hevy workout JSON file",
@@ -11,7 +21,7 @@ yargs(hideBin(process.argv))
         description: "Path to the Fitbod exercise CSV file",
         type: "string",
       }),
-    (argv) => convert(argv.file as string)
+    (argv) => convert(argv.fitbodFilePath as string)
   )
   .command(
     "publish <workoutFilePath>",

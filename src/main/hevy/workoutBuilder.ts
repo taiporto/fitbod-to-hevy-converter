@@ -1,5 +1,5 @@
+import { HevyAPI } from "./../../lib/hevy/api";
 import dayjs from "dayjs";
-import { HevyAPI } from "../../lib/hevy/api";
 import type { GeneralExercise } from "../../types";
 
 export class WorkoutBuilder {
@@ -8,9 +8,9 @@ export class WorkoutBuilder {
   exerciseTemplates: ExerciseTemplate[] = [];
   heviAPI: HevyAPI;
 
-  constructor(allExercises: GeneralExercise[]) {
+  constructor(allExercises: GeneralExercise[], hevyAPI: HevyAPI) {
     this.generalExercises = allExercises;
-    this.heviAPI = new HevyAPI(process.env.API_KEY ?? "");
+    this.heviAPI = hevyAPI;
   }
 
   private async initializeExerciseTemplates() {
