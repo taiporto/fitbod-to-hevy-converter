@@ -1,6 +1,6 @@
 import { Database } from "bun:sqlite";
 
-const db = new Database("../db.sqlite");
+const db = new Database("../db.sqlite", { create: true });
 db.exec("PRAGMA journal_mode = WAL;");
 
 export const keys_table_query = db.prepare(`CREATE TABLE IF NOT EXISTS keys (

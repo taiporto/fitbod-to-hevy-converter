@@ -1,7 +1,8 @@
 {
-  "name": "fitbod-to-hevy-converter",
+  "name": "hevy-toolbox",
   "module": "src/index.ts",
   "type": "module",
+  "version": "0.0.2-alpha",
   "devDependencies": {
     "@types/bun": "latest",
     "@types/yargs": "^17.0.33"
