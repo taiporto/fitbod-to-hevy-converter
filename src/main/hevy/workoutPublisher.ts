@@ -1,15 +1,13 @@
 import { HevyAPI } from "./../../lib/hevy/api";
 export class WorkoutPublisher {
-  workouts: HevyWorkout[];
   hevyAPI: HevyAPI;
 
-  constructor(workouts: HevyWorkout[]) {
-    this.workouts = workouts;
+  constructor() {
     this.hevyAPI = new HevyAPI(process.env.API_KEY ?? "");
   }
 
-  async publishWorkouts() {
-    for (let workout of this.workouts) {
+  async bulkPublishWorkouts(workouts: HevyWorkout[]) {
+    for (let workout of workouts) {
       await this.hevyAPI.postWorkout(workout);
     }
   }

@@ -65,7 +65,7 @@ export class HevyAPI {
         }
       })
       .catch((error) => {
-        console.error("Error publishing workout: ", error.response.data);
+        console.error("Error publishing workout: ", error);
         return [];
       });
   }
