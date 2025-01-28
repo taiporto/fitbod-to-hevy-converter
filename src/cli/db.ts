@@ -26,6 +26,19 @@ export function save_custom_equivalence(
   query.run(original_name, hevy_name);
 }
 
+export function get_custom_equivalences(): Record<string, string> {
+  const equivalences = db
+    .query(`SELECT original_name, hevy_name FROM exercise_equivalence`)
+    .all() as { original_name: string; hevy_name: string }[];
+  return equivalences.reduce(
+    (acc, { original_name, hevy_name }) => ({
+      ...acc,
+      [original_name]: hevy_name,
+    }),
+    {}
+  );
+}
+
 export function save_api_key(APIKey: string): void {
   const query = db.query(
     `INSERT INTO keys (key_name, key_value) VALUES ("API_KEY", ?)`

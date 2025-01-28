@@ -1,6 +1,6 @@
 import { HevyAPI } from "./../lib/hevy/api";
 import { CSVtoJSON } from "../utils/parsers/CSVtoJSON";
-import { fitbodDataToGeneralExercises } from "../utils/parsers/fitbodToHevyExersises";
+import { originalDataToGeneralExercises } from "../utils/parsers/fitbodToHevyExersises";
 import { WorkoutBuilder } from "../main/hevy/workoutBuilder";
 import { WorkoutPublisher } from "../main/hevy/workoutPublisher";
 import { save_api_key, save_custom_equivalence, use_api_key } from "./db";
@@ -28,7 +28,7 @@ export async function convert(filePath: string) {
 
   const csvContent = await Bun.file(filePath).text();
 
-  const exerciseData = fitbodDataToGeneralExercises(CSVtoJSON(csvContent));
+  const exerciseData = originalDataToGeneralExercises(CSVtoJSON(csvContent));
 
   const workoutBuilder = new WorkoutBuilder(exerciseData, hevyAPI);
 
@@ -76,7 +76,7 @@ export async function convertAndPublish(filePath: string) {
   const hevyAPI = initializeAPI();
   const csvContent = await Bun.file(filePath).text();
 
-  const exerciseData = fitbodDataToGeneralExercises(CSVtoJSON(csvContent));
+  const exerciseData = originalDataToGeneralExercises(CSVtoJSON(csvContent));
   const workoutBuilder = new WorkoutBuilder(exerciseData, hevyAPI);
   const workouts = await workoutBuilder.buildWorkoutsFromGeneralExercises();
 

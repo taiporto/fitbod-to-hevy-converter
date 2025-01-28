@@ -1,12 +1,12 @@
-import { EXERCISE_NAME_MAPPING } from "../../constants";
+import { get_custom_equivalences } from "../../cli/db";
 import type { FitbodData, GeneralExercise } from "../../types";
 
-export const fitbodDataToGeneralExercises = (
-  fitbodData: FitbodData[]
+export const originalDataToGeneralExercises = (
+  originalData: FitbodData[]
 ): GeneralExercise[] => {
   const setOrdersMap = new Map<string, number>();
 
-  return fitbodData.map((entry) => {
+  return originalData.map((entry) => {
     const exerciseKey = `${entry.date.substring(0, 10)}_${entry.exercise_name}`;
 
     if (setOrdersMap.has(exerciseKey)) {
@@ -16,10 +16,10 @@ export const fitbodDataToGeneralExercises = (
       setOrdersMap.set(exerciseKey, 1);
     }
 
+    const exerciseMap = get_custom_equivalences();
+
     const exerciseName =
-      EXERCISE_NAME_MAPPING[
-        entry.exercise_name as keyof typeof EXERCISE_NAME_MAPPING
-      ] || entry.exercise_name;
+      exerciseMap[entry.exercise_name] || entry.exercise_name;
 
     return {
       metadata: {

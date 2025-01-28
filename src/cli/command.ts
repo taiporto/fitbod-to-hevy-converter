@@ -99,5 +99,4 @@ yargs(hideBin(process.argv))
   )
   .alias("help", "-h")
   .wrap(135)
-  .default("help", true)
   .parse();
