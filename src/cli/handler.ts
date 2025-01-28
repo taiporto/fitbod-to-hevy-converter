@@ -3,7 +3,7 @@ import { CSVtoJSON } from "../utils/parsers/CSVtoJSON";
 import { fitbodDataToGeneralExercises } from "../utils/parsers/fitbodToHevyExersises";
 import { WorkoutBuilder } from "../main/hevy/workoutBuilder";
 import { WorkoutPublisher } from "../main/hevy/workoutPublisher";
-import { save_api_key, use_api_key } from "./db";
+import { save_api_key, save_custom_equivalence, use_api_key } from "./db";
 import yoctoSpinner from "yocto-spinner";
 
 function initializeAPI() {
@@ -88,6 +88,44 @@ export async function convertAndPublish(filePath: string) {
     spinner.success("Workouts have been published to your Hevy account");
   } catch (error) {
     spinner.error("Error publishing workouts");
+    console.error(error);
+  }
+}
+
+export async function saveCustomEquivalence(
+  originalName: string,
+  hevyName: string
+) {
+  const spinner = yoctoSpinner({
+    text: "Saving custom equivalence...",
+  }).start();
+
+  try {
+    save_custom_equivalence(originalName, hevyName);
+    spinner.success("Custom equivalence saved");
+  } catch (error) {
+    spinner.error("Error saving custom equivalence");
+    console.error(error);
+  }
+}
+
+export async function saveCustomEquivalenceInBulk(filePath: string) {
+  const spinner = yoctoSpinner({
+    text: "Saving custom equivalences...",
+  }).start();
+
+  const jsonContent = JSON.parse(await Bun.file(filePath).text()) as {
+    originalName: string;
+    hevyName: string;
+  }[];
+
+  try {
+    jsonContent.forEach(({ originalName, hevyName }) => {
+      save_custom_equivalence(originalName, hevyName);
+    });
+    spinner.success("Custom equivalences saved");
+  } catch (error) {
+    spinner.error("Error saving custom equivalences");
     console.error(error);
   }
 }

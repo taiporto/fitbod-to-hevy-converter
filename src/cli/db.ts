@@ -9,6 +9,23 @@ export const keys_table_query = db.prepare(`CREATE TABLE IF NOT EXISTS keys (
   key_value TEXT NOT NULL
 )`);
 
+export const exercise_equivalence_table_query =
+  db.prepare(`CREATE TABLE IF NOT EXISTS exercise_equivalence (
+  id INTEGER PRIMARY KEY AUTOINCREMENT,
+  original_name TEXT NOT NULL,
+  hevy_name TEXT NOT NULL
+)`);
+
+export function save_custom_equivalence(
+  original_name: string,
+  hevy_name: string
+): void {
+  const query = db.query(
+    `INSERT INTO exercise_equivalence (original_name, hevy_name) VALUES (?, ?)`
+  );
+  query.run(original_name, hevy_name);
+}
+
 export function save_api_key(APIKey: string): void {
   const query = db.query(
     `INSERT INTO keys (key_name, key_value) VALUES ("API_KEY", ?)`
