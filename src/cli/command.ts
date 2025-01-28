@@ -31,7 +31,7 @@ yargs(hideBin(process.argv))
         description: "Path to the JSON file containing the single Hevy workout",
         type: "string",
       }),
-    (argv) => publish(argv.workoutFile as string)
+    (argv) => publish(argv.workoutFilePath as string)
   )
   .command(
     "bulk-publish <workoutFilePath>",
@@ -41,7 +41,7 @@ yargs(hideBin(process.argv))
         description: "Path to the JSON file containing the Hevy workouts",
         type: "string",
       }),
-    (argv) => bulkPublish(argv.workoutFile as string)
+    (argv) => bulkPublish(argv.workoutFilePath as string)
   )
   .command(
     "convert-and-publish <fitbodFilePath>",
@@ -51,6 +51,6 @@ yargs(hideBin(process.argv))
         description: "Path to the Fitbod exercise CSV file",
         type: "string",
       }),
-    (argv) => bulkPublish(argv.workoutFile as string)
+    (argv) => bulkPublish(argv.fitbodFilePath as string)
   )
   .parse();
