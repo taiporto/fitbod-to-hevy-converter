@@ -1,0 +1,7540 @@
+[
+  {
+    "title": "Workout on 2024-11-13",
+    "description": "Imported from Fitbod",
+    "start_time": "2024-11-13T03:00:00.000Z",
+    "end_time": "2024-11-13T04:00:00.000Z",
+    "is_private": false,
+    "exercises": [
+      {
+        "exercise_template_id": "7E3BC8B6",
+        "superset_id": null,
+        "notes": "Imported from Fitbod",
+        "sets": [
+          {
+            "type": "normal",
+            "weight_kg": 16,
+            "reps": 12,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 16,
+            "reps": 12,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 16,
+            "reps": 12,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          }
+        ]
+      },
+      {
+        "exercise_template_id": "B567DD46",
+        "superset_id": null,
+        "notes": "Imported from Fitbod",
+        "sets": [
+          {
+            "type": "normal",
+            "weight_kg": 14,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 14,
+            "reps": 6,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 14,
+            "reps": 7,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          }
+        ]
+      },
+      {
+        "exercise_template_id": "1006DF48",
+        "superset_id": null,
+        "notes": "Imported from Fitbod",
+        "sets": [
+          {
+            "type": "normal",
+            "weight_kg": 8,
+            "reps": 6,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 8,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 8,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          }
+        ]
+      },
+      {
+        "exercise_template_id": "37FCC2BB",
+        "superset_id": null,
+        "notes": "Imported from Fitbod",
+        "sets": [
+          {
+            "type": "normal",
+            "weight_kg": 16,
+            "reps": 15,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 16,
+            "reps": 15,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          }
+        ]
+      },
+      {
+        "exercise_template_id": "55E6546F",
+        "superset_id": null,
+        "notes": "Imported from Fitbod",
+        "sets": [
+          {
+            "type": "normal",
+            "weight_kg": 26,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 26,
+            "reps": 7,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 26,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          }
+        ]
+      },
+      {
+        "exercise_template_id": "422B08F1",
+        "superset_id": null,
+        "notes": "Imported from Fitbod",
+        "sets": [
+          {
+            "type": "normal",
+            "weight_kg": 16,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 16,
+            "reps": 12,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Workout on 2024-10-11",
+    "description": "Imported from Fitbod",
+    "start_time": "2024-10-11T03:00:00.000Z",
+    "end_time": "2024-10-11T04:00:00.000Z",
+    "is_private": false,
+    "exercises": [
+      {
+        "exercise_template_id": "C7973E0E",
+        "superset_id": null,
+        "notes": "Imported from Fitbod",
+        "sets": [
+          {
+            "type": "normal",
+            "weight_kg": 82,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 82,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 82,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          }
+        ]
+      },
+      {
+        "exercise_template_id": "6A6C31A5",
+        "superset_id": null,
+        "notes": "Imported from Fitbod",
+        "sets": [
+          {
+            "type": "normal",
+            "weight_kg": 45,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 42,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 42,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          }
+        ]
+      },
+      {
+        "exercise_template_id": "6AC96645",
+        "superset_id": null,
+        "notes": "Imported from Fitbod",
+        "sets": [
+          {
+            "type": "normal",
+            "weight_kg": 20,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 20,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 20,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          }
+        ]
+      },
+      {
+        "exercise_template_id": "11A123F3",
+        "superset_id": null,
+        "notes": "Imported from Fitbod",
+        "sets": [
+          {
+            "type": "normal",
+            "weight_kg": 40,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 42,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 42,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          }
+        ]
+      },
+      {
+        "exercise_template_id": "EB43ADD4",
+        "superset_id": null,
+        "notes": "Imported from Fitbod",
+        "sets": [
+          {
+            "type": "normal",
+            "weight_kg": 35,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          }
+        ]
+      },
+      {
+        "exercise_template_id": "7AB9A362",
+        "superset_id": null,
+        "notes": "Imported from Fitbod",
+        "sets": [
+          {
+            "type": "normal",
+            "weight_kg": 14,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 14,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 14,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          }
+        ]
+      },
+      {
+        "exercise_template_id": "91237BDD",
+        "superset_id": null,
+        "notes": "Imported from Fitbod",
+        "sets": [
+          {
+            "type": "normal",
+            "weight_kg": 80,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 80,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 80,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          }
+        ]
+      },
+      {
+        "exercise_template_id": "422B08F1",
+        "superset_id": null,
+        "notes": "Imported from Fitbod",
+        "sets": [
+          {
+            "type": "normal",
+            "weight_kg": 14,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 14,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 14,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Workout on 2025-01-10",
+    "description": "Imported from Fitbod",
+    "start_time": "2025-01-10T03:00:00.000Z",
+    "end_time": "2025-01-10T04:00:00.000Z",
+    "is_private": false,
+    "exercises": [
+      {
+        "exercise_template_id": "C7973E0E",
+        "superset_id": null,
+        "notes": "Imported from Fitbod",
+        "sets": [
+          {
+            "type": "normal",
+            "weight_kg": 80,
+            "reps": 15,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 82,
+            "reps": 15,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 80,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          }
+        ]
+      },
+      {
+        "exercise_template_id": "11A123F3",
+        "superset_id": null,
+        "notes": "Imported from Fitbod",
+        "sets": [
+          {
+            "type": "normal",
+            "weight_kg": 45,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 45,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 45,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          }
+        ]
+      },
+      {
+        "exercise_template_id": "F4B4C6EE",
+        "superset_id": null,
+        "notes": "Imported from Fitbod",
+        "sets": [
+          {
+            "type": "normal",
+            "weight_kg": 95,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 95,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 85,
+            "reps": 15,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          }
+        ]
+      },
+      {
+        "exercise_template_id": "8BEBFED6",
+        "superset_id": null,
+        "notes": "Imported from Fitbod",
+        "sets": [
+          {
+            "type": "normal",
+            "weight_kg": 75,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 75,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 75,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          }
+        ]
+      },
+      {
+        "exercise_template_id": "91237BDD",
+        "superset_id": null,
+        "notes": "Imported from Fitbod",
+        "sets": [
+          {
+            "type": "normal",
+            "weight_kg": 60,
+            "reps": 15,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 62,
+            "reps": 15,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 65,
+            "reps": 15,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Workout on 2025-01-17",
+    "description": "Imported from Fitbod",
+    "start_time": "2025-01-17T03:00:00.000Z",
+    "end_time": "2025-01-17T04:00:00.000Z",
+    "is_private": false,
+    "exercises": [
+      {
+        "exercise_template_id": "3765684D",
+        "superset_id": null,
+        "notes": "Imported from Fitbod",
+        "sets": [
+          {
+            "type": "normal",
+            "weight_kg": 28,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 28,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 28,
+            "reps": 15,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          }
+        ]
+      },
+      {
+        "exercise_template_id": "37FCC2BB",
+        "superset_id": null,
+        "notes": "Imported from Fitbod",
+        "sets": [
+          {
+            "type": "normal",
+            "weight_kg": 20,
+            "reps": 7,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 20,
+            "reps": 7,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 20,
+            "reps": 7,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          }
+        ]
+      },
+      {
+        "exercise_template_id": "7E3BC8B6",
+        "superset_id": null,
+        "notes": "Imported from Fitbod",
+        "sets": [
+          {
+            "type": "normal",
+            "weight_kg": 16,
+            "reps": 12,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 16,
+            "reps": 12,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 16,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          }
+        ]
+      },
+      {
+        "exercise_template_id": "C7973E0E",
+        "superset_id": null,
+        "notes": "Imported from Fitbod",
+        "sets": [
+          {
+            "type": "normal",
+            "weight_kg": 90,
+            "reps": 12,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 105,
+            "reps": 12,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 90,
+            "reps": 12,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          }
+        ]
+      },
+      {
+        "exercise_template_id": "91237BDD",
+        "superset_id": null,
+        "notes": "Imported from Fitbod",
+        "sets": [
+          {
+            "type": "normal",
+            "weight_kg": 70,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 70,
+            "reps": 15,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 50,
+            "reps": 8,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          }
+        ]
+      },
+      {
+        "exercise_template_id": "8BEBFED6",
+        "superset_id": null,
+        "notes": "Imported from Fitbod",
+        "sets": [
+          {
+            "type": "normal",
+            "weight_kg": 75,
+            "reps": 12,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 75,
+            "reps": 12,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 70,
+            "reps": 12,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          }
+        ]
+      },
+      {
+        "exercise_template_id": "11A123F3",
+        "superset_id": null,
+        "notes": "Imported from Fitbod",
+        "sets": [
+          {
+            "type": "normal",
+            "weight_kg": 40,
+            "reps": 12,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 40,
+            "reps": 12,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 40,
+            "reps": 12,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          }
+        ]
+      },
+      {
+        "exercise_template_id": "F4B4C6EE",
+        "superset_id": null,
+        "notes": "Imported from Fitbod",
+        "sets": [
+          {
+            "type": "normal",
+            "weight_kg": 95,
+            "reps": 12,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 95,
+            "reps": 12,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 95,
+            "reps": 12,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Workout on 2024-12-06",
+    "description": "Imported from Fitbod",
+    "start_time": "2024-12-06T03:00:00.000Z",
+    "end_time": "2024-12-06T04:00:00.000Z",
+    "is_private": false,
+    "exercises": [
+      {
+        "exercise_template_id": "99fdbbf4-8d98-40f2-8d91-cf3299eb2245",
+        "superset_id": null,
+        "notes": "Imported from Fitbod",
+        "sets": [
+          {
+            "type": "normal",
+            "weight_kg": 15,
+            "reps": 8,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 15,
+            "reps": 8,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 15,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 15,
+            "reps": 15,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          }
+        ]
+      },
+      {
+        "exercise_template_id": "1006DF48",
+        "superset_id": null,
+        "notes": "Imported from Fitbod",
+        "sets": [
+          {
+            "type": "normal",
+            "weight_kg": 8,
+            "reps": 11,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 8,
+            "reps": 15,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 8,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          }
+        ]
+      },
+      {
+        "exercise_template_id": "6A6C31A5",
+        "superset_id": null,
+        "notes": "Imported from Fitbod",
+        "sets": [
+          {
+            "type": "normal",
+            "weight_kg": 49,
+            "reps": 8,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 49,
+            "reps": 8,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 49,
+            "reps": 8,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 49,
+            "reps": 8,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          }
+        ]
+      },
+      {
+        "exercise_template_id": "37FCC2BB",
+        "superset_id": null,
+        "notes": "Imported from Fitbod",
+        "sets": [
+          {
+            "type": "normal",
+            "weight_kg": 24,
+            "reps": 13,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 24,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 24,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          }
+        ]
+      },
+      {
+        "exercise_template_id": "A5AC6449",
+        "superset_id": null,
+        "notes": "Imported from Fitbod",
+        "sets": [
+          {
+            "type": "normal",
+            "weight_kg": 14,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 14,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 14,
+            "reps": 15,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 14,
+            "reps": 15,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          }
+        ]
+      },
+      {
+        "exercise_template_id": "7E3BC8B6",
+        "superset_id": null,
+        "notes": "Imported from Fitbod",
+        "sets": [
+          {
+            "type": "normal",
+            "weight_kg": 14,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 14,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 14,
+            "reps": 9,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          }
+        ]
+      },
+      {
+        "exercise_template_id": "4E5257DE",
+        "superset_id": null,
+        "notes": "Imported from Fitbod",
+        "sets": [
+          {
+            "type": "normal",
+            "weight_kg": 45,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 45,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 45,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Workout on 2024-12-26",
+    "description": "Imported from Fitbod",
+    "start_time": "2024-12-26T03:00:00.000Z",
+    "end_time": "2024-12-26T04:00:00.000Z",
+    "is_private": false,
+    "exercises": [
+      {
+        "exercise_template_id": "5122E7D9",
+        "superset_id": null,
+        "notes": "Imported from Fitbod",
+        "sets": [
+          {
+            "type": "normal",
+            "weight_kg": 45,
+            "reps": 15,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 45,
+            "reps": 15,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 45,
+            "reps": 15,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          }
+        ]
+      },
+      {
+        "exercise_template_id": "37FCC2BB",
+        "superset_id": null,
+        "notes": "Imported from Fitbod",
+        "sets": [
+          {
+            "type": "normal",
+            "weight_kg": 16,
+            "reps": 15,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 16,
+            "reps": 13,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 16,
+            "reps": 15,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          }
+        ]
+      },
+      {
+        "exercise_template_id": "01A35BF9",
+        "superset_id": null,
+        "notes": "Imported from Fitbod",
+        "sets": [
+          {
+            "type": "normal",
+            "weight_kg": 15,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 15,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 15,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          }
+        ]
+      },
+      {
+        "exercise_template_id": "3765684D",
+        "superset_id": null,
+        "notes": "Imported from Fitbod",
+        "sets": [
+          {
+            "type": "normal",
+            "weight_kg": 24,
+            "reps": 15,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 24,
+            "reps": 15,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 24,
+            "reps": 15,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 24,
+            "reps": 15,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          }
+        ]
+      },
+      {
+        "exercise_template_id": "7E3BC8B6",
+        "superset_id": null,
+        "notes": "Imported from Fitbod",
+        "sets": [
+          {
+            "type": "normal",
+            "weight_kg": 12,
+            "reps": 15,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 12,
+            "reps": 15,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 12,
+            "reps": 15,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          }
+        ]
+      },
+      {
+        "exercise_template_id": "D8F7F851",
+        "superset_id": null,
+        "notes": "Imported from Fitbod",
+        "sets": [
+          {
+            "type": "normal",
+            "weight_kg": null,
+            "reps": null,
+            "distance_meters": null,
+            "duration_seconds": null
+          }
+        ]
+      },
+      {
+        "exercise_template_id": "33EDD7DB",
+        "superset_id": null,
+        "notes": "Imported from Fitbod",
+        "sets": [
+          {
+            "type": "normal",
+            "weight_kg": null,
+            "reps": null,
+            "distance_meters": null,
+            "duration_seconds": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Workout on 2024-10-28",
+    "description": "Imported from Fitbod",
+    "start_time": "2024-10-28T03:00:00.000Z",
+    "end_time": "2024-10-28T04:00:00.000Z",
+    "is_private": false,
+    "exercises": [
+      {
+        "exercise_template_id": "A5AC6449",
+        "superset_id": null,
+        "notes": "Imported from Fitbod",
+        "sets": [
+          {
+            "type": "normal",
+            "weight_kg": 18,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 18,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 22,
+            "reps": 8,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          }
+        ]
+      },
+      {
+        "exercise_template_id": "0B841777",
+        "superset_id": null,
+        "notes": "Imported from Fitbod",
+        "sets": [
+          {
+            "type": "normal",
+            "weight_kg": 22,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 18,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 18,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          }
+        ]
+      },
+      {
+        "exercise_template_id": "01A35BF9",
+        "superset_id": null,
+        "notes": "Imported from Fitbod",
+        "sets": [
+          {
+            "type": "normal",
+            "weight_kg": 14,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 14,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 14,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          }
+        ]
+      },
+      {
+        "exercise_template_id": "112FC6B7",
+        "superset_id": null,
+        "notes": "Imported from Fitbod",
+        "sets": [
+          {
+            "type": "normal",
+            "weight_kg": 14,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 14,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 14,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          }
+        ]
+      },
+      {
+        "exercise_template_id": "37FCC2BB",
+        "superset_id": null,
+        "notes": "Imported from Fitbod",
+        "sets": [
+          {
+            "type": "normal",
+            "weight_kg": 20,
+            "reps": 6,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 20,
+            "reps": 9,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 20,
+            "reps": 9,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          }
+        ]
+      },
+      {
+        "exercise_template_id": "ABEC557F",
+        "superset_id": null,
+        "notes": "Imported from Fitbod",
+        "sets": [
+          {
+            "type": "normal",
+            "weight_kg": 28,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 28,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 28,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Workout on 2024-12-21",
+    "description": "Imported from Fitbod",
+    "start_time": "2024-12-21T03:00:00.000Z",
+    "end_time": "2024-12-21T04:00:00.000Z",
+    "is_private": false,
+    "exercises": [
+      {
+        "exercise_template_id": "23E92538",
+        "superset_id": null,
+        "notes": "Imported from Fitbod",
+        "sets": [
+          {
+            "type": "normal",
+            "weight_kg": 16,
+            "reps": 15,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 16,
+            "reps": 15,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 16,
+            "reps": 11,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          }
+        ]
+      },
+      {
+        "exercise_template_id": "7AB9A362",
+        "superset_id": null,
+        "notes": "Imported from Fitbod",
+        "sets": [
+          {
+            "type": "normal",
+            "weight_kg": 14,
+            "reps": 12,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 14,
+            "reps": 12,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 14,
+            "reps": 12,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          }
+        ]
+      },
+      {
+        "exercise_template_id": "6A6C31A5",
+        "superset_id": null,
+        "notes": "Imported from Fitbod",
+        "sets": [
+          {
+            "type": "normal",
+            "weight_kg": 49,
+            "reps": 9,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 35,
+            "reps": 6,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 49,
+            "reps": 11,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 45,
+            "reps": 7,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          }
+        ]
+      },
+      {
+        "exercise_template_id": "4E5257DE",
+        "superset_id": null,
+        "notes": "Imported from Fitbod",
+        "sets": [
+          {
+            "type": "normal",
+            "weight_kg": 40,
+            "reps": 12,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 40,
+            "reps": 12,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Workout on 2025-01-15",
+    "description": "Imported from Fitbod",
+    "start_time": "2025-01-15T03:00:00.000Z",
+    "end_time": "2025-01-15T04:00:00.000Z",
+    "is_private": false,
+    "exercises": [
+      {
+        "exercise_template_id": "07B38369",
+        "superset_id": null,
+        "notes": "Imported from Fitbod",
+        "sets": [
+          {
+            "type": "normal",
+            "weight_kg": 20,
+            "reps": 15,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 20,
+            "reps": 15,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 20,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          }
+        ]
+      },
+      {
+        "exercise_template_id": "1006DF48",
+        "superset_id": null,
+        "notes": "Imported from Fitbod",
+        "sets": [
+          {
+            "type": "normal",
+            "weight_kg": 10,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 10,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 10,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          }
+        ]
+      },
+      {
+        "exercise_template_id": "3601968B",
+        "superset_id": null,
+        "notes": "Imported from Fitbod",
+        "sets": [
+          {
+            "type": "normal",
+            "weight_kg": 20,
+            "reps": 15,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 20,
+            "reps": 15,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 20,
+            "reps": 15,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          }
+        ]
+      },
+      {
+        "exercise_template_id": "D3E2AB55",
+        "superset_id": null,
+        "notes": "Imported from Fitbod",
+        "sets": [
+          {
+            "type": "normal",
+            "weight_kg": 20,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 20,
+            "reps": 7,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 20,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          }
+        ]
+      },
+      {
+        "exercise_template_id": "78683336",
+        "superset_id": null,
+        "notes": "Imported from Fitbod",
+        "sets": [
+          {
+            "type": "normal",
+            "weight_kg": 25,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 30,
+            "reps": 12,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 30,
+            "reps": 12,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 20,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Workout on 2025-01-14",
+    "description": "Imported from Fitbod",
+    "start_time": "2025-01-14T03:00:00.000Z",
+    "end_time": "2025-01-14T04:00:00.000Z",
+    "is_private": false,
+    "exercises": [
+      {
+        "exercise_template_id": "6AC96645",
+        "superset_id": null,
+        "notes": "Imported from Fitbod",
+        "sets": [
+          {
+            "type": "normal",
+            "weight_kg": 20,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 20,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 20,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          }
+        ]
+      },
+      {
+        "exercise_template_id": "1DF4A847",
+        "superset_id": null,
+        "notes": "Imported from Fitbod",
+        "sets": [
+          {
+            "type": "normal",
+            "weight_kg": 30,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 30,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 35,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          }
+        ]
+      },
+      {
+        "exercise_template_id": "99fdbbf4-8d98-40f2-8d91-cf3299eb2245",
+        "superset_id": null,
+        "notes": "Imported from Fitbod",
+        "sets": [
+          {
+            "type": "normal",
+            "weight_kg": 20,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 20,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 20,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          }
+        ]
+      },
+      {
+        "exercise_template_id": "422B08F1",
+        "superset_id": null,
+        "notes": "Imported from Fitbod",
+        "sets": [
+          {
+            "type": "normal",
+            "weight_kg": 14,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 14,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 14,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          }
+        ]
+      },
+      {
+        "exercise_template_id": "6A6C31A5",
+        "superset_id": null,
+        "notes": "Imported from Fitbod",
+        "sets": [
+          {
+            "type": "normal",
+            "weight_kg": 49,
+            "reps": 9,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 47,
+            "reps": 9,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 47,
+            "reps": 9,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          }
+        ]
+      },
+      {
+        "exercise_template_id": "8293E554",
+        "superset_id": null,
+        "notes": "Imported from Fitbod",
+        "sets": [
+          {
+            "type": "normal",
+            "weight_kg": 14,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 14,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 14,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          }
+        ]
+      },
+      {
+        "exercise_template_id": "33EDD7DB",
+        "superset_id": null,
+        "notes": "Imported from Fitbod",
+        "sets": [
+          {
+            "type": "normal",
+            "weight_kg": null,
+            "reps": null,
+            "distance_meters": null,
+            "duration_seconds": null
+          }
+        ]
+      },
+      {
+        "exercise_template_id": "BC3492DA",
+        "superset_id": null,
+        "notes": "Imported from Fitbod",
+        "sets": [
+          {
+            "type": "normal",
+            "weight_kg": 17,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 22,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 22,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          }
+        ]
+      },
+      {
+        "exercise_template_id": "914F3A96",
+        "superset_id": null,
+        "notes": "Imported from Fitbod",
+        "sets": [
+          {
+            "type": "normal",
+            "weight_kg": 20,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 20,
+            "reps": 15,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 14,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Workout on 2024-11-23",
+    "description": "Imported from Fitbod",
+    "start_time": "2024-11-23T03:00:00.000Z",
+    "end_time": "2024-11-23T04:00:00.000Z",
+    "is_private": false,
+    "exercises": [
+      {
+        "exercise_template_id": "6AC96645",
+        "superset_id": null,
+        "notes": "Imported from Fitbod",
+        "sets": [
+          {
+            "type": "normal",
+            "weight_kg": 20,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 20,
+            "reps": 7,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 20,
+            "reps": 12,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          }
+        ]
+      },
+      {
+        "exercise_template_id": "9202CC23",
+        "superset_id": null,
+        "notes": "Imported from Fitbod",
+        "sets": [
+          {
+            "type": "normal",
+            "weight_kg": 10,
+            "reps": 15,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 10,
+            "reps": 12,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 10,
+            "reps": 15,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 10,
+            "reps": 15,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          }
+        ]
+      },
+      {
+        "exercise_template_id": "7AB9A362",
+        "superset_id": null,
+        "notes": "Imported from Fitbod",
+        "sets": [
+          {
+            "type": "normal",
+            "weight_kg": 10,
+            "reps": 15,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 10,
+            "reps": 15,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          }
+        ]
+      },
+      {
+        "exercise_template_id": "B9380898",
+        "superset_id": null,
+        "notes": "Imported from Fitbod",
+        "sets": [
+          {
+            "type": "normal",
+            "weight_kg": null,
+            "reps": null,
+            "distance_meters": 0,
+            "duration_seconds": null
+          },
+          {
+            "type": "normal",
+            "weight_kg": null,
+            "reps": null,
+            "distance_meters": 0,
+            "duration_seconds": null
+          }
+        ]
+      },
+      {
+        "exercise_template_id": "C7973E0E",
+        "superset_id": null,
+        "notes": "Imported from Fitbod",
+        "sets": [
+          {
+            "type": "normal",
+            "weight_kg": 75,
+            "reps": 15,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 75,
+            "reps": 15,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 75,
+            "reps": 15,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          }
+        ]
+      },
+      {
+        "exercise_template_id": "422B08F1",
+        "superset_id": null,
+        "notes": "Imported from Fitbod",
+        "sets": [
+          {
+            "type": "normal",
+            "weight_kg": 16,
+            "reps": 9,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 16,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          }
+        ]
+      },
+      {
+        "exercise_template_id": "91237BDD",
+        "superset_id": null,
+        "notes": "Imported from Fitbod",
+        "sets": [
+          {
+            "type": "normal",
+            "weight_kg": 75,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 75,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 75,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          }
+        ]
+      },
+      {
+        "exercise_template_id": "9694DA61",
+        "superset_id": null,
+        "notes": "Imported from Fitbod",
+        "sets": [
+          {
+            "type": "normal",
+            "weight_kg": 0,
+            "reps": 9,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 0,
+            "reps": 9,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 0,
+            "reps": 9,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          }
+        ]
+      },
+      {
+        "exercise_template_id": "9237BAD1",
+        "superset_id": null,
+        "notes": "Imported from Fitbod",
+        "sets": [
+          {
+            "type": "normal",
+            "weight_kg": 15,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 15,
+            "reps": 15,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 10,
+            "reps": 8,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 12,
+            "reps": 8,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          }
+        ]
+      },
+      {
+        "exercise_template_id": "11A123F3",
+        "superset_id": null,
+        "notes": "Imported from Fitbod",
+        "sets": [
+          {
+            "type": "normal",
+            "weight_kg": 40,
+            "reps": 12,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 40,
+            "reps": 12,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 40,
+            "reps": 12,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          }
+        ]
+      },
+      {
+        "exercise_template_id": "5E1A7777",
+        "superset_id": null,
+        "notes": "Imported from Fitbod",
+        "sets": [
+          {
+            "type": "normal",
+            "weight_kg": 0,
+            "reps": 5,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 0,
+            "reps": 5,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 0,
+            "reps": 5,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Workout on 2024-10-24",
+    "description": "Imported from Fitbod",
+    "start_time": "2024-10-24T03:00:00.000Z",
+    "end_time": "2024-10-24T04:00:00.000Z",
+    "is_private": false,
+    "exercises": [
+      {
+        "exercise_template_id": "1DF4A847",
+        "superset_id": null,
+        "notes": "Imported from Fitbod",
+        "sets": [
+          {
+            "type": "normal",
+            "weight_kg": 32,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 32,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          }
+        ]
+      },
+      {
+        "exercise_template_id": "3601968B",
+        "superset_id": null,
+        "notes": "Imported from Fitbod",
+        "sets": [
+          {
+            "type": "normal",
+            "weight_kg": 24,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 24,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 24,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          }
+        ]
+      },
+      {
+        "exercise_template_id": "07B38369",
+        "superset_id": null,
+        "notes": "Imported from Fitbod",
+        "sets": [
+          {
+            "type": "normal",
+            "weight_kg": 24,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 24,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 24,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          }
+        ]
+      },
+      {
+        "exercise_template_id": "24706DCD",
+        "superset_id": null,
+        "notes": "Imported from Fitbod",
+        "sets": [
+          {
+            "type": "normal",
+            "weight_kg": 0,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 17,
+            "reps": 5,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 17,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          }
+        ]
+      },
+      {
+        "exercise_template_id": "914F3A96",
+        "superset_id": null,
+        "notes": "Imported from Fitbod",
+        "sets": [
+          {
+            "type": "normal",
+            "weight_kg": 24,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 24,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          }
+        ]
+      },
+      {
+        "exercise_template_id": "4E5257DE",
+        "superset_id": null,
+        "notes": "Imported from Fitbod",
+        "sets": [
+          {
+            "type": "normal",
+            "weight_kg": 42,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 42,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 42,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          }
+        ]
+      },
+      {
+        "exercise_template_id": "6A6C31A5",
+        "superset_id": null,
+        "notes": "Imported from Fitbod",
+        "sets": [
+          {
+            "type": "normal",
+            "weight_kg": 42,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 42,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 42,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Workout on 2024-10-04",
+    "description": "Imported from Fitbod",
+    "start_time": "2024-10-04T03:00:00.000Z",
+    "end_time": "2024-10-04T04:00:00.000Z",
+    "is_private": false,
+    "exercises": [
+      {
+        "exercise_template_id": "11A123F3",
+        "superset_id": null,
+        "notes": "Imported from Fitbod",
+        "sets": [
+          {
+            "type": "normal",
+            "weight_kg": 40,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 40,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          }
+        ]
+      },
+      {
+        "exercise_template_id": "422B08F1",
+        "superset_id": null,
+        "notes": "Imported from Fitbod",
+        "sets": [
+          {
+            "type": "normal",
+            "weight_kg": 14,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 14,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 14,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          }
+        ]
+      },
+      {
+        "exercise_template_id": "91237BDD",
+        "superset_id": null,
+        "notes": "Imported from Fitbod",
+        "sets": [
+          {
+            "type": "normal",
+            "weight_kg": 80,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 80,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 75,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          }
+        ]
+      },
+      {
+        "exercise_template_id": "112FC6B7",
+        "superset_id": null,
+        "notes": "Imported from Fitbod",
+        "sets": [
+          {
+            "type": "normal",
+            "weight_kg": 11,
+            "reps": 6,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 11,
+            "reps": 5,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 11,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          }
+        ]
+      },
+      {
+        "exercise_template_id": "7E3BC8B6",
+        "superset_id": null,
+        "notes": "Imported from Fitbod",
+        "sets": [
+          {
+            "type": "normal",
+            "weight_kg": 18,
+            "reps": 6,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 18,
+            "reps": 8,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 18,
+            "reps": 8,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          }
+        ]
+      },
+      {
+        "exercise_template_id": "7AB9A362",
+        "superset_id": null,
+        "notes": "Imported from Fitbod",
+        "sets": [
+          {
+            "type": "normal",
+            "weight_kg": 11,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 11,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 11,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          }
+        ]
+      },
+      {
+        "exercise_template_id": "6AC96645",
+        "superset_id": null,
+        "notes": "Imported from Fitbod",
+        "sets": [
+          {
+            "type": "normal",
+            "weight_kg": 18,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 18,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 18,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          }
+        ]
+      },
+      {
+        "exercise_template_id": "C7973E0E",
+        "superset_id": null,
+        "notes": "Imported from Fitbod",
+        "sets": [
+          {
+            "type": "normal",
+            "weight_kg": 80,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 80,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          }
+        ]
+      },
+      {
+        "exercise_template_id": "37FCC2BB",
+        "superset_id": null,
+        "notes": "Imported from Fitbod",
+        "sets": [
+          {
+            "type": "normal",
+            "weight_kg": 20,
+            "reps": 5,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 20,
+            "reps": 7,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 20,
+            "reps": 6,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          }
+        ]
+      },
+      {
+        "exercise_template_id": "3765684D",
+        "superset_id": null,
+        "notes": "Imported from Fitbod",
+        "sets": [
+          {
+            "type": "normal",
+            "weight_kg": 28,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 28,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 28,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          }
+        ]
+      },
+      {
+        "exercise_template_id": "EB43ADD4",
+        "superset_id": null,
+        "notes": "Imported from Fitbod",
+        "sets": [
+          {
+            "type": "normal",
+            "weight_kg": 35,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 35,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          }
+        ]
+      },
+      {
+        "exercise_template_id": "9237BAD1",
+        "superset_id": null,
+        "notes": "Imported from Fitbod",
+        "sets": [
+          {
+            "type": "normal",
+            "weight_kg": 15,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 15,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 15,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Workout on 2024-12-18",
+    "description": "Imported from Fitbod",
+    "start_time": "2024-12-18T03:00:00.000Z",
+    "end_time": "2024-12-18T04:00:00.000Z",
+    "is_private": false,
+    "exercises": [
+      {
+        "exercise_template_id": "7E3BC8B6",
+        "superset_id": null,
+        "notes": "Imported from Fitbod",
+        "sets": [
+          {
+            "type": "normal",
+            "weight_kg": 14,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 14,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 14,
+            "reps": 15,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          }
+        ]
+      },
+      {
+        "exercise_template_id": "37FCC2BB",
+        "superset_id": null,
+        "notes": "Imported from Fitbod",
+        "sets": [
+          {
+            "type": "normal",
+            "weight_kg": 12,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 18,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 12,
+            "reps": 9,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 18,
+            "reps": 8,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 18,
+            "reps": 6,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 18,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 18,
+            "reps": 6,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 18,
+            "reps": 8,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 12,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          }
+        ]
+      },
+      {
+        "exercise_template_id": "3092FADD",
+        "superset_id": null,
+        "notes": "Imported from Fitbod",
+        "sets": [
+          {
+            "type": "normal",
+            "weight_kg": 16,
+            "reps": 15,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 16,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 16,
+            "reps": 13,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          }
+        ]
+      },
+      {
+        "exercise_template_id": "4B4BF8C2",
+        "superset_id": null,
+        "notes": "Imported from Fitbod",
+        "sets": [
+          {
+            "type": "normal",
+            "weight_kg": 40,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 40,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 26,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Workout on 2024-10-17",
+    "description": "Imported from Fitbod",
+    "start_time": "2024-10-17T03:00:00.000Z",
+    "end_time": "2024-10-17T04:00:00.000Z",
+    "is_private": false,
+    "exercises": [
+      {
+        "exercise_template_id": "35B51B87",
+        "superset_id": null,
+        "notes": "Imported from Fitbod",
+        "sets": [
+          {
+            "type": "normal",
+            "weight_kg": 10,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 10,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 10,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          }
+        ]
+      },
+      {
+        "exercise_template_id": "8BAB2735",
+        "superset_id": null,
+        "notes": "Imported from Fitbod",
+        "sets": [
+          {
+            "type": "normal",
+            "weight_kg": 20,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 20,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 20,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          }
+        ]
+      },
+      {
+        "exercise_template_id": "1006DF48",
+        "superset_id": null,
+        "notes": "Imported from Fitbod",
+        "sets": [
+          {
+            "type": "normal",
+            "weight_kg": 10,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 10,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          }
+        ]
+      },
+      {
+        "exercise_template_id": "21310F5F",
+        "superset_id": null,
+        "notes": "Imported from Fitbod",
+        "sets": [
+          {
+            "type": "normal",
+            "weight_kg": 6,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 12,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 6,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 12,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 12,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 6,
+            "reps": 8,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          }
+        ]
+      },
+      {
+        "exercise_template_id": "112FC6B7",
+        "superset_id": null,
+        "notes": "Imported from Fitbod",
+        "sets": [
+          {
+            "type": "normal",
+            "weight_kg": 12,
+            "reps": 7,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 12,
+            "reps": 7,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 12,
+            "reps": 9,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          }
+        ]
+      },
+      {
+        "exercise_template_id": "4B4BF8C2",
+        "superset_id": null,
+        "notes": "Imported from Fitbod",
+        "sets": [
+          {
+            "type": "normal",
+            "weight_kg": 47,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 47,
+            "reps": 0,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          }
+        ]
+      },
+      {
+        "exercise_template_id": "7E3BC8B6",
+        "superset_id": null,
+        "notes": "Imported from Fitbod",
+        "sets": [
+          {
+            "type": "normal",
+            "weight_kg": 20,
+            "reps": 5,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 20,
+            "reps": 5,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Workout on 2024-12-27",
+    "description": "Imported from Fitbod",
+    "start_time": "2024-12-27T03:00:00.000Z",
+    "end_time": "2024-12-27T04:00:00.000Z",
+    "is_private": false,
+    "exercises": [
+      {
+        "exercise_template_id": "3601968B",
+        "superset_id": null,
+        "notes": "Imported from Fitbod",
+        "sets": [
+          {
+            "type": "normal",
+            "weight_kg": 20,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 20,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 20,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 20,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          }
+        ]
+      },
+      {
+        "exercise_template_id": "07B38369",
+        "superset_id": null,
+        "notes": "Imported from Fitbod",
+        "sets": [
+          {
+            "type": "normal",
+            "weight_kg": 20,
+            "reps": 8,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 20,
+            "reps": 7,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 20,
+            "reps": 14,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          }
+        ]
+      },
+      {
+        "exercise_template_id": "94B7239B",
+        "superset_id": null,
+        "notes": "Imported from Fitbod",
+        "sets": [
+          {
+            "type": "normal",
+            "weight_kg": 15,
+            "reps": 15,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 15,
+            "reps": 15,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 15,
+            "reps": 15,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          }
+        ]
+      },
+      {
+        "exercise_template_id": "FBF92739",
+        "superset_id": null,
+        "notes": "Imported from Fitbod",
+        "sets": [
+          {
+            "type": "normal",
+            "weight_kg": 10,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 10,
+            "reps": 8,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 10,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          }
+        ]
+      },
+      {
+        "exercise_template_id": "12017185",
+        "superset_id": null,
+        "notes": "Imported from Fitbod",
+        "sets": [
+          {
+            "type": "normal",
+            "weight_kg": 12,
+            "reps": 8,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 16,
+            "reps": 15,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 16,
+            "reps": 11,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 16,
+            "reps": 8,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Workout on 2024-12-20",
+    "description": "Imported from Fitbod",
+    "start_time": "2024-12-20T03:00:00.000Z",
+    "end_time": "2024-12-20T04:00:00.000Z",
+    "is_private": false,
+    "exercises": [
+      {
+        "exercise_template_id": "8293E554",
+        "superset_id": null,
+        "notes": "Imported from Fitbod",
+        "sets": [
+          {
+            "type": "normal",
+            "weight_kg": 12,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 12,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 12,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          }
+        ]
+      },
+      {
+        "exercise_template_id": "24706DCD",
+        "superset_id": null,
+        "notes": "Imported from Fitbod",
+        "sets": [
+          {
+            "type": "normal",
+            "weight_kg": 9,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 12,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 13,
+            "reps": 9,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 13,
+            "reps": 7,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          }
+        ]
+      },
+      {
+        "exercise_template_id": "3601968B",
+        "superset_id": null,
+        "notes": "Imported from Fitbod",
+        "sets": [
+          {
+            "type": "normal",
+            "weight_kg": 20,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 20,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 20,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 20,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          }
+        ]
+      },
+      {
+        "exercise_template_id": "D3E2AB55",
+        "superset_id": null,
+        "notes": "Imported from Fitbod",
+        "sets": [
+          {
+            "type": "normal",
+            "weight_kg": 12,
+            "reps": 14,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 12,
+            "reps": 15,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 12,
+            "reps": 12,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          }
+        ]
+      },
+      {
+        "exercise_template_id": "78683336",
+        "superset_id": null,
+        "notes": "Imported from Fitbod",
+        "sets": [
+          {
+            "type": "normal",
+            "weight_kg": 30,
+            "reps": 5,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 30,
+            "reps": 6,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 30,
+            "reps": 8,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          }
+        ]
+      },
+      {
+        "exercise_template_id": "9237BAD1",
+        "superset_id": null,
+        "notes": "Imported from Fitbod",
+        "sets": [
+          {
+            "type": "normal",
+            "weight_kg": 17,
+            "reps": 7,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 17,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 17,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          }
+        ]
+      },
+      {
+        "exercise_template_id": "07B38369",
+        "superset_id": null,
+        "notes": "Imported from Fitbod",
+        "sets": [
+          {
+            "type": "normal",
+            "weight_kg": 20,
+            "reps": 14,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 20,
+            "reps": 14,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 20,
+            "reps": 14,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          }
+        ]
+      },
+      {
+        "exercise_template_id": "6AC96645",
+        "superset_id": null,
+        "notes": "Imported from Fitbod",
+        "sets": [
+          {
+            "type": "normal",
+            "weight_kg": 20,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 20,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 12,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Workout on 2024-11-08",
+    "description": "Imported from Fitbod",
+    "start_time": "2024-11-08T03:00:00.000Z",
+    "end_time": "2024-11-08T04:00:00.000Z",
+    "is_private": false,
+    "exercises": [
+      {
+        "exercise_template_id": "C7973E0E",
+        "superset_id": null,
+        "notes": "Imported from Fitbod",
+        "sets": [
+          {
+            "type": "normal",
+            "weight_kg": 80,
+            "reps": 12,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 70,
+            "reps": 8,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 80,
+            "reps": 15,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 55,
+            "reps": 8,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          }
+        ]
+      },
+      {
+        "exercise_template_id": "91237BDD",
+        "superset_id": null,
+        "notes": "Imported from Fitbod",
+        "sets": [
+          {
+            "type": "normal",
+            "weight_kg": 80,
+            "reps": 5,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 80,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 80,
+            "reps": 5,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 80,
+            "reps": 5,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 80,
+            "reps": 5,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          }
+        ]
+      },
+      {
+        "exercise_template_id": "11A123F3",
+        "superset_id": null,
+        "notes": "Imported from Fitbod",
+        "sets": [
+          {
+            "type": "normal",
+            "weight_kg": 40,
+            "reps": 12,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 40,
+            "reps": 12,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 40,
+            "reps": 12,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Workout on 2024-12-31",
+    "description": "Imported from Fitbod",
+    "start_time": "2024-12-31T03:00:00.000Z",
+    "end_time": "2024-12-31T04:00:00.000Z",
+    "is_private": false,
+    "exercises": [
+      {
+        "exercise_template_id": "6A6C31A5",
+        "superset_id": null,
+        "notes": "Imported from Fitbod",
+        "sets": [
+          {
+            "type": "normal",
+            "weight_kg": 49,
+            "reps": 6,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 49,
+            "reps": 6,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 49,
+            "reps": 6,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 49,
+            "reps": 6,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 52,
+            "reps": 6,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          }
+        ]
+      },
+      {
+        "exercise_template_id": "AA1EB7D8",
+        "superset_id": null,
+        "notes": "Imported from Fitbod",
+        "sets": [
+          {
+            "type": "normal",
+            "weight_kg": 15,
+            "reps": 15,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 15,
+            "reps": 15,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 15,
+            "reps": 15,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          }
+        ]
+      },
+      {
+        "exercise_template_id": "55E6546F",
+        "superset_id": null,
+        "notes": "Imported from Fitbod",
+        "sets": [
+          {
+            "type": "normal",
+            "weight_kg": 14,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 18,
+            "reps": 15,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 18,
+            "reps": 23,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 18,
+            "reps": 21,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          }
+        ]
+      },
+      {
+        "exercise_template_id": "D8F7F851",
+        "superset_id": null,
+        "notes": "Imported from Fitbod",
+        "sets": [
+          {
+            "type": "normal",
+            "weight_kg": null,
+            "reps": null,
+            "distance_meters": null,
+            "duration_seconds": null
+          }
+        ]
+      },
+      {
+        "exercise_template_id": "6AC96645",
+        "superset_id": null,
+        "notes": "Imported from Fitbod",
+        "sets": [
+          {
+            "type": "normal",
+            "weight_kg": 20,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 20,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 20,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          }
+        ]
+      },
+      {
+        "exercise_template_id": "33EDD7DB",
+        "superset_id": null,
+        "notes": "Imported from Fitbod",
+        "sets": [
+          {
+            "type": "normal",
+            "weight_kg": null,
+            "reps": null,
+            "distance_meters": null,
+            "duration_seconds": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Workout on 2024-10-09",
+    "description": "Imported from Fitbod",
+    "start_time": "2024-10-09T03:00:00.000Z",
+    "end_time": "2024-10-09T04:00:00.000Z",
+    "is_private": false,
+    "exercises": [
+      {
+        "exercise_template_id": "112FC6B7",
+        "superset_id": null,
+        "notes": "Imported from Fitbod",
+        "sets": [
+          {
+            "type": "normal",
+            "weight_kg": 11,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 11,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 11,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          }
+        ]
+      },
+      {
+        "exercise_template_id": "35B51B87",
+        "superset_id": null,
+        "notes": "Imported from Fitbod",
+        "sets": [
+          {
+            "type": "normal",
+            "weight_kg": 10,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 10,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 10,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          }
+        ]
+      },
+      {
+        "exercise_template_id": "3765684D",
+        "superset_id": null,
+        "notes": "Imported from Fitbod",
+        "sets": [
+          {
+            "type": "normal",
+            "weight_kg": 32,
+            "reps": 9,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 32,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 32,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          }
+        ]
+      },
+      {
+        "exercise_template_id": "8BAB2735",
+        "superset_id": null,
+        "notes": "Imported from Fitbod",
+        "sets": [
+          {
+            "type": "normal",
+            "weight_kg": 20,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 20,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 20,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          }
+        ]
+      },
+      {
+        "exercise_template_id": "7E3BC8B6",
+        "superset_id": null,
+        "notes": "Imported from Fitbod",
+        "sets": [
+          {
+            "type": "normal",
+            "weight_kg": 20,
+            "reps": 5,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 20,
+            "reps": 5,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          }
+        ]
+      },
+      {
+        "exercise_template_id": "21310F5F",
+        "superset_id": null,
+        "notes": "Imported from Fitbod",
+        "sets": [
+          {
+            "type": "normal",
+            "weight_kg": 6,
+            "reps": 8,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 6,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 11,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 6,
+            "reps": 6,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 12,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 11,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Workout on 2025-01-04",
+    "description": "Imported from Fitbod",
+    "start_time": "2025-01-04T03:00:00.000Z",
+    "end_time": "2025-01-04T04:00:00.000Z",
+    "is_private": false,
+    "exercises": [
+      {
+        "exercise_template_id": "9237BAD1",
+        "superset_id": null,
+        "notes": "Imported from Fitbod",
+        "sets": [
+          {
+            "type": "normal",
+            "weight_kg": 20,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 20,
+            "reps": 8,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 20,
+            "reps": 6,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          }
+        ]
+      },
+      {
+        "exercise_template_id": "1DF4A847",
+        "superset_id": null,
+        "notes": "Imported from Fitbod",
+        "sets": [
+          {
+            "type": "normal",
+            "weight_kg": 25,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 20,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 30,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          }
+        ]
+      },
+      {
+        "exercise_template_id": "3092FADD",
+        "superset_id": null,
+        "notes": "Imported from Fitbod",
+        "sets": [
+          {
+            "type": "normal",
+            "weight_kg": 18,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 18,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 18,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          }
+        ]
+      },
+      {
+        "exercise_template_id": "37FCC2BB",
+        "superset_id": null,
+        "notes": "Imported from Fitbod",
+        "sets": [
+          {
+            "type": "normal",
+            "weight_kg": 14,
+            "reps": 4,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 20,
+            "reps": 4,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 24,
+            "reps": 3,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 24,
+            "reps": 3,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          }
+        ]
+      },
+      {
+        "exercise_template_id": "32C4D4A2",
+        "superset_id": null,
+        "notes": "Imported from Fitbod",
+        "sets": [
+          {
+            "type": "normal",
+            "weight_kg": 7,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 7,
+            "reps": 20,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 7,
+            "reps": 15,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 7,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          }
+        ]
+      },
+      {
+        "exercise_template_id": "94B7239B",
+        "superset_id": null,
+        "notes": "Imported from Fitbod",
+        "sets": [
+          {
+            "type": "normal",
+            "weight_kg": 12,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 17,
+            "reps": 12,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 17,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 17,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          }
+        ]
+      },
+      {
+        "exercise_template_id": "4B4BF8C2",
+        "superset_id": null,
+        "notes": "Imported from Fitbod",
+        "sets": [
+          {
+            "type": "normal",
+            "weight_kg": 40,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 40,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 40,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          }
+        ]
+      },
+      {
+        "exercise_template_id": "5122E7D9",
+        "superset_id": null,
+        "notes": "Imported from Fitbod",
+        "sets": [
+          {
+            "type": "normal",
+            "weight_kg": 55,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          }
+        ]
+      },
+      {
+        "exercise_template_id": "112FC6B7",
+        "superset_id": null,
+        "notes": "Imported from Fitbod",
+        "sets": [
+          {
+            "type": "normal",
+            "weight_kg": 14,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 14,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 14,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Workout on 2024-10-05",
+    "description": "Imported from Fitbod",
+    "start_time": "2024-10-05T03:00:00.000Z",
+    "end_time": "2024-10-05T04:00:00.000Z",
+    "is_private": false,
+    "exercises": [
+      {
+        "exercise_template_id": "1DF4A847",
+        "superset_id": null,
+        "notes": "Imported from Fitbod",
+        "sets": [
+          {
+            "type": "normal",
+            "weight_kg": 32,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 30,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 32,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          }
+        ]
+      },
+      {
+        "exercise_template_id": "3601968B",
+        "superset_id": null,
+        "notes": "Imported from Fitbod",
+        "sets": [
+          {
+            "type": "normal",
+            "weight_kg": 24,
+            "reps": 7,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 24,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 24,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          }
+        ]
+      },
+      {
+        "exercise_template_id": "24706DCD",
+        "superset_id": null,
+        "notes": "Imported from Fitbod",
+        "sets": [
+          {
+            "type": "normal",
+            "weight_kg": 15,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 17,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 17,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          }
+        ]
+      },
+      {
+        "exercise_template_id": "78683336",
+        "superset_id": null,
+        "notes": "Imported from Fitbod",
+        "sets": [
+          {
+            "type": "normal",
+            "weight_kg": 30,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 30,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 30,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          }
+        ]
+      },
+      {
+        "exercise_template_id": "07B38369",
+        "superset_id": null,
+        "notes": "Imported from Fitbod",
+        "sets": [
+          {
+            "type": "normal",
+            "weight_kg": 24,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 24,
+            "reps": 8,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 24,
+            "reps": 8,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          }
+        ]
+      },
+      {
+        "exercise_template_id": "914F3A96",
+        "superset_id": null,
+        "notes": "Imported from Fitbod",
+        "sets": [
+          {
+            "type": "normal",
+            "weight_kg": 24,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 24,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 24,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          }
+        ]
+      },
+      {
+        "exercise_template_id": "79D0BB3A",
+        "superset_id": null,
+        "notes": "Imported from Fitbod",
+        "sets": [
+          {
+            "type": "normal",
+            "weight_kg": 20,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Workout on 2024-11-14",
+    "description": "Imported from Fitbod",
+    "start_time": "2024-11-14T03:00:00.000Z",
+    "end_time": "2024-11-14T04:00:00.000Z",
+    "is_private": false,
+    "exercises": [
+      {
+        "exercise_template_id": "07B38369",
+        "superset_id": null,
+        "notes": "Imported from Fitbod",
+        "sets": [
+          {
+            "type": "normal",
+            "weight_kg": 20,
+            "reps": 12,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 20,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 20,
+            "reps": 12,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          }
+        ]
+      },
+      {
+        "exercise_template_id": "3601968B",
+        "superset_id": null,
+        "notes": "Imported from Fitbod",
+        "sets": [
+          {
+            "type": "normal",
+            "weight_kg": 28,
+            "reps": 9,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 24,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 28,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          }
+        ]
+      },
+      {
+        "exercise_template_id": "78683336",
+        "superset_id": null,
+        "notes": "Imported from Fitbod",
+        "sets": [
+          {
+            "type": "normal",
+            "weight_kg": 35,
+            "reps": 5,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 35,
+            "reps": 8,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 35,
+            "reps": 8,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 35,
+            "reps": 8,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          }
+        ]
+      },
+      {
+        "exercise_template_id": "6A6C31A5",
+        "superset_id": null,
+        "notes": "Imported from Fitbod",
+        "sets": [
+          {
+            "type": "normal",
+            "weight_kg": 42,
+            "reps": 13,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 42,
+            "reps": 13,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 42,
+            "reps": 13,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          }
+        ]
+      },
+      {
+        "exercise_template_id": "5122E7D9",
+        "superset_id": null,
+        "notes": "Imported from Fitbod",
+        "sets": [
+          {
+            "type": "normal",
+            "weight_kg": 45,
+            "reps": 15,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 45,
+            "reps": 15,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 45,
+            "reps": 15,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          }
+        ]
+      },
+      {
+        "exercise_template_id": "24706DCD",
+        "superset_id": null,
+        "notes": "Imported from Fitbod",
+        "sets": [
+          {
+            "type": "normal",
+            "weight_kg": 17,
+            "reps": 4,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          }
+        ]
+      },
+      {
+        "exercise_template_id": "BC3492DA",
+        "superset_id": null,
+        "notes": "Imported from Fitbod",
+        "sets": [
+          {
+            "type": "normal",
+            "weight_kg": 16,
+            "reps": 15,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 16,
+            "reps": 15,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 16,
+            "reps": 15,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          }
+        ]
+      },
+      {
+        "exercise_template_id": "3765684D",
+        "superset_id": null,
+        "notes": "Imported from Fitbod",
+        "sets": [
+          {
+            "type": "normal",
+            "weight_kg": 28,
+            "reps": 7,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 28,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 28,
+            "reps": 7,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 28,
+            "reps": 8,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          }
+        ]
+      },
+      {
+        "exercise_template_id": "68F8A292",
+        "superset_id": null,
+        "notes": "Imported from Fitbod",
+        "sets": [
+          {
+            "type": "normal",
+            "weight_kg": 16,
+            "reps": 9,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 16,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 14,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Workout on 2024-11-06",
+    "description": "Imported from Fitbod",
+    "start_time": "2024-11-06T03:00:00.000Z",
+    "end_time": "2024-11-06T04:00:00.000Z",
+    "is_private": false,
+    "exercises": [
+      {
+        "exercise_template_id": "24706DCD",
+        "superset_id": null,
+        "notes": "Imported from Fitbod",
+        "sets": [
+          {
+            "type": "normal",
+            "weight_kg": 17,
+            "reps": 12,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 18,
+            "reps": 12,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 18,
+            "reps": 12,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          }
+        ]
+      },
+      {
+        "exercise_template_id": "3601968B",
+        "superset_id": null,
+        "notes": "Imported from Fitbod",
+        "sets": [
+          {
+            "type": "normal",
+            "weight_kg": 24,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 24,
+            "reps": 8,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 24,
+            "reps": 8,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 24,
+            "reps": 9,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          }
+        ]
+      },
+      {
+        "exercise_template_id": "5122E7D9",
+        "superset_id": null,
+        "notes": "Imported from Fitbod",
+        "sets": [
+          {
+            "type": "normal",
+            "weight_kg": 45,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 45,
+            "reps": 12,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 45,
+            "reps": 12,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 45,
+            "reps": 12,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          }
+        ]
+      },
+      {
+        "exercise_template_id": "94B7239B",
+        "superset_id": null,
+        "notes": "Imported from Fitbod",
+        "sets": [
+          {
+            "type": "normal",
+            "weight_kg": 13,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 18,
+            "reps": 8,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 18,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 16,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          }
+        ]
+      },
+      {
+        "exercise_template_id": "78683336",
+        "superset_id": null,
+        "notes": "Imported from Fitbod",
+        "sets": [
+          {
+            "type": "normal",
+            "weight_kg": 35,
+            "reps": 6,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 35,
+            "reps": 8,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          }
+        ]
+      },
+      {
+        "exercise_template_id": "3092FADD",
+        "superset_id": null,
+        "notes": "Imported from Fitbod",
+        "sets": [
+          {
+            "type": "normal",
+            "weight_kg": 16,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 16,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Workout on 2024-10-16",
+    "description": "Imported from Fitbod",
+    "start_time": "2024-10-16T03:00:00.000Z",
+    "end_time": "2024-10-16T04:00:00.000Z",
+    "is_private": false,
+    "exercises": [
+      {
+        "exercise_template_id": "78683336",
+        "superset_id": null,
+        "notes": "Imported from Fitbod",
+        "sets": [
+          {
+            "type": "normal",
+            "weight_kg": 35,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 35,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 35,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          }
+        ]
+      },
+      {
+        "exercise_template_id": "67280085",
+        "superset_id": null,
+        "notes": "Imported from Fitbod",
+        "sets": [
+          {
+            "type": "normal",
+            "weight_kg": 24,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 24,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 24,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          }
+        ]
+      },
+      {
+        "exercise_template_id": "24706DCD",
+        "superset_id": null,
+        "notes": "Imported from Fitbod",
+        "sets": [
+          {
+            "type": "normal",
+            "weight_kg": 17,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 17,
+            "reps": 9,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 17,
+            "reps": 6,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          }
+        ]
+      },
+      {
+        "exercise_template_id": "7E3BC8B6",
+        "superset_id": null,
+        "notes": "Imported from Fitbod",
+        "sets": [
+          {
+            "type": "normal",
+            "weight_kg": 20,
+            "reps": 5,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 20,
+            "reps": 7,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 20,
+            "reps": 6,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          }
+        ]
+      },
+      {
+        "exercise_template_id": "6A6C31A5",
+        "superset_id": null,
+        "notes": "Imported from Fitbod",
+        "sets": [
+          {
+            "type": "normal",
+            "weight_kg": 40,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 42,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 42,
+            "reps": 8,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          }
+        ]
+      },
+      {
+        "exercise_template_id": "3601968B",
+        "superset_id": null,
+        "notes": "Imported from Fitbod",
+        "sets": [
+          {
+            "type": "normal",
+            "weight_kg": 24,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 24,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 24,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          }
+        ]
+      },
+      {
+        "exercise_template_id": "BC3492DA",
+        "superset_id": null,
+        "notes": "Imported from Fitbod",
+        "sets": [
+          {
+            "type": "normal",
+            "weight_kg": 20,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 20,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 17,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          }
+        ]
+      },
+      {
+        "exercise_template_id": "914F3A96",
+        "superset_id": null,
+        "notes": "Imported from Fitbod",
+        "sets": [
+          {
+            "type": "normal",
+            "weight_kg": 24,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 24,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 24,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          }
+        ]
+      },
+      {
+        "exercise_template_id": "6AC96645",
+        "superset_id": null,
+        "notes": "Imported from Fitbod",
+        "sets": [
+          {
+            "type": "normal",
+            "weight_kg": 24,
+            "reps": 7,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          }
+        ]
+      },
+      {
+        "exercise_template_id": "07B38369",
+        "superset_id": null,
+        "notes": "Imported from Fitbod",
+        "sets": [
+          {
+            "type": "normal",
+            "weight_kg": 24,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 24,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 24,
+            "reps": 7,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          }
+        ]
+      },
+      {
+        "exercise_template_id": "4E5257DE",
+        "superset_id": null,
+        "notes": "Imported from Fitbod",
+        "sets": [
+          {
+            "type": "normal",
+            "weight_kg": 40,
+            "reps": 8,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 40,
+            "reps": 8,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 40,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          }
+        ]
+      },
+      {
+        "exercise_template_id": "3765684D",
+        "superset_id": null,
+        "notes": "Imported from Fitbod",
+        "sets": [
+          {
+            "type": "normal",
+            "weight_kg": 20,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Workout on 2024-10-23",
+    "description": "Imported from Fitbod",
+    "start_time": "2024-10-23T03:00:00.000Z",
+    "end_time": "2024-10-23T04:00:00.000Z",
+    "is_private": false,
+    "exercises": [
+      {
+        "exercise_template_id": "91237BDD",
+        "superset_id": null,
+        "notes": "Imported from Fitbod",
+        "sets": [
+          {
+            "type": "normal",
+            "weight_kg": 82,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 80,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 80,
+            "reps": 8,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          }
+        ]
+      },
+      {
+        "exercise_template_id": "422B08F1",
+        "superset_id": null,
+        "notes": "Imported from Fitbod",
+        "sets": [
+          {
+            "type": "normal",
+            "weight_kg": 14,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 14,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 14,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          }
+        ]
+      },
+      {
+        "exercise_template_id": "7AB9A362",
+        "superset_id": null,
+        "notes": "Imported from Fitbod",
+        "sets": [
+          {
+            "type": "normal",
+            "weight_kg": 14,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 14,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 14,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          }
+        ]
+      },
+      {
+        "exercise_template_id": "6AC96645",
+        "superset_id": null,
+        "notes": "Imported from Fitbod",
+        "sets": [
+          {
+            "type": "normal",
+            "weight_kg": 20,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 20,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 20,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          }
+        ]
+      },
+      {
+        "exercise_template_id": "C7973E0E",
+        "superset_id": null,
+        "notes": "Imported from Fitbod",
+        "sets": [
+          {
+            "type": "normal",
+            "weight_kg": 82,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 82,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 82,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          }
+        ]
+      },
+      {
+        "exercise_template_id": "7E3BC8B6",
+        "superset_id": null,
+        "notes": "Imported from Fitbod",
+        "sets": [
+          {
+            "type": "normal",
+            "weight_kg": 20,
+            "reps": 7,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 20,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 20,
+            "reps": 8,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          }
+        ]
+      },
+      {
+        "exercise_template_id": "11A123F3",
+        "superset_id": null,
+        "notes": "Imported from Fitbod",
+        "sets": [
+          {
+            "type": "normal",
+            "weight_kg": 45,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 45,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 45,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          }
+        ]
+      },
+      {
+        "exercise_template_id": "3765684D",
+        "superset_id": null,
+        "notes": "Imported from Fitbod",
+        "sets": [
+          {
+            "type": "normal",
+            "weight_kg": 32,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 32,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 32,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Workout on 2024-11-21",
+    "description": "Imported from Fitbod",
+    "start_time": "2024-11-21T03:00:00.000Z",
+    "end_time": "2024-11-21T04:00:00.000Z",
+    "is_private": false,
+    "exercises": [
+      {
+        "exercise_template_id": "07B38369",
+        "superset_id": null,
+        "notes": "Imported from Fitbod",
+        "sets": [
+          {
+            "type": "normal",
+            "weight_kg": 20,
+            "reps": 15,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 20,
+            "reps": 8,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 20,
+            "reps": 9,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          }
+        ]
+      },
+      {
+        "exercise_template_id": "8347DFD1",
+        "superset_id": null,
+        "notes": "Imported from Fitbod",
+        "sets": [
+          {
+            "type": "normal",
+            "weight_kg": 14,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 14,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          }
+        ]
+      },
+      {
+        "exercise_template_id": "94B7239B",
+        "superset_id": null,
+        "notes": "Imported from Fitbod",
+        "sets": [
+          {
+            "type": "normal",
+            "weight_kg": 15,
+            "reps": 15,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 15,
+            "reps": 9,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 15,
+            "reps": 15,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          }
+        ]
+      },
+      {
+        "exercise_template_id": "12017185",
+        "superset_id": null,
+        "notes": "Imported from Fitbod",
+        "sets": [
+          {
+            "type": "normal",
+            "weight_kg": 14,
+            "reps": 20,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 14,
+            "reps": 15,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          }
+        ]
+      },
+      {
+        "exercise_template_id": "24706DCD",
+        "superset_id": null,
+        "notes": "Imported from Fitbod",
+        "sets": [
+          {
+            "type": "normal",
+            "weight_kg": 13,
+            "reps": 9,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 13,
+            "reps": 8,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 13,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          }
+        ]
+      },
+      {
+        "exercise_template_id": "78683336",
+        "superset_id": null,
+        "notes": "Imported from Fitbod",
+        "sets": [
+          {
+            "type": "normal",
+            "weight_kg": 25,
+            "reps": 15,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 25,
+            "reps": 15,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          }
+        ]
+      },
+      {
+        "exercise_template_id": "3601968B",
+        "superset_id": null,
+        "notes": "Imported from Fitbod",
+        "sets": [
+          {
+            "type": "normal",
+            "weight_kg": 28,
+            "reps": 4,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 28,
+            "reps": 4,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 28,
+            "reps": 4,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          }
+        ]
+      },
+      {
+        "exercise_template_id": "4B4BF8C2",
+        "superset_id": null,
+        "notes": "Imported from Fitbod",
+        "sets": [
+          {
+            "type": "normal",
+            "weight_kg": 33,
+            "reps": 3,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 33,
+            "reps": 8,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          }
+        ]
+      },
+      {
+        "exercise_template_id": "3765684D",
+        "superset_id": null,
+        "notes": "Imported from Fitbod",
+        "sets": [
+          {
+            "type": "normal",
+            "weight_kg": 28,
+            "reps": 12,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 28,
+            "reps": 12,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 28,
+            "reps": 12,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Workout on 2025-01-21",
+    "description": "Imported from Fitbod",
+    "start_time": "2025-01-21T03:00:00.000Z",
+    "end_time": "2025-01-21T04:00:00.000Z",
+    "is_private": false,
+    "exercises": [
+      {
+        "exercise_template_id": "3601968B",
+        "superset_id": null,
+        "notes": "Imported from Fitbod",
+        "sets": [
+          {
+            "type": "normal",
+            "weight_kg": 24,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 24,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 24,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          }
+        ]
+      },
+      {
+        "exercise_template_id": "07B38369",
+        "superset_id": null,
+        "notes": "Imported from Fitbod",
+        "sets": [
+          {
+            "type": "normal",
+            "weight_kg": 20,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 20,
+            "reps": 14,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 20,
+            "reps": 11,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          }
+        ]
+      },
+      {
+        "exercise_template_id": "7EB3F7C3",
+        "superset_id": null,
+        "notes": "Imported from Fitbod",
+        "sets": [
+          {
+            "type": "normal",
+            "weight_kg": 35,
+            "reps": 15,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 35,
+            "reps": 15,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 35,
+            "reps": 15,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          }
+        ]
+      },
+      {
+        "exercise_template_id": "12017185",
+        "superset_id": null,
+        "notes": "Imported from Fitbod",
+        "sets": [
+          {
+            "type": "normal",
+            "weight_kg": 20,
+            "reps": 7,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 20,
+            "reps": 6,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 20,
+            "reps": 6,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          }
+        ]
+      },
+      {
+        "exercise_template_id": "78683336",
+        "superset_id": null,
+        "notes": "Imported from Fitbod",
+        "sets": [
+          {
+            "type": "normal",
+            "weight_kg": 30,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 30,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 20,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          }
+        ]
+      },
+      {
+        "exercise_template_id": "651F844C",
+        "superset_id": null,
+        "notes": "Imported from Fitbod",
+        "sets": [
+          {
+            "type": "normal",
+            "weight_kg": 6,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 5,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 7,
+            "reps": 7,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          }
+        ]
+      },
+      {
+        "exercise_template_id": "243710DE",
+        "superset_id": null,
+        "notes": "Imported from Fitbod",
+        "sets": [
+          {
+            "type": "normal",
+            "weight_kg": null,
+            "reps": null,
+            "distance_meters": null,
+            "duration_seconds": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Workout on 2024-12-02",
+    "description": "Imported from Fitbod",
+    "start_time": "2024-12-02T03:00:00.000Z",
+    "end_time": "2024-12-02T04:00:00.000Z",
+    "is_private": false,
+    "exercises": [
+      {
+        "exercise_template_id": "392887AA",
+        "superset_id": null,
+        "notes": "Imported from Fitbod",
+        "sets": [
+          {
+            "type": "normal",
+            "weight_kg": 0,
+            "reps": 7,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 0,
+            "reps": 7,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 0,
+            "reps": 7,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          }
+        ]
+      },
+      {
+        "exercise_template_id": "B74A95BB",
+        "superset_id": null,
+        "notes": "Imported from Fitbod",
+        "sets": [
+          {
+            "type": "normal",
+            "weight_kg": 0,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 0,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 0,
+            "reps": 9,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 0,
+            "reps": 9,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 0,
+            "reps": 9,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 0,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Workout on 2025-01-03",
+    "description": "Imported from Fitbod",
+    "start_time": "2025-01-03T03:00:00.000Z",
+    "end_time": "2025-01-03T04:00:00.000Z",
+    "is_private": false,
+    "exercises": [
+      {
+        "exercise_template_id": "12017185",
+        "superset_id": null,
+        "notes": "Imported from Fitbod",
+        "sets": [
+          {
+            "type": "normal",
+            "weight_kg": 12,
+            "reps": 20,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 12,
+            "reps": 20,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          }
+        ]
+      },
+      {
+        "exercise_template_id": "24706DCD",
+        "superset_id": null,
+        "notes": "Imported from Fitbod",
+        "sets": [
+          {
+            "type": "normal",
+            "weight_kg": 12,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 12,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 12,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          }
+        ]
+      },
+      {
+        "exercise_template_id": "D3E2AB55",
+        "superset_id": null,
+        "notes": "Imported from Fitbod",
+        "sets": [
+          {
+            "type": "normal",
+            "weight_kg": 12,
+            "reps": 18,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 12,
+            "reps": 18,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          }
+        ]
+      },
+      {
+        "exercise_template_id": "07B38369",
+        "superset_id": null,
+        "notes": "Imported from Fitbod",
+        "sets": [
+          {
+            "type": "normal",
+            "weight_kg": 20,
+            "reps": 13,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 20,
+            "reps": 15,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          }
+        ]
+      },
+      {
+        "exercise_template_id": "3601968B",
+        "superset_id": null,
+        "notes": "Imported from Fitbod",
+        "sets": [
+          {
+            "type": "normal",
+            "weight_kg": 20,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 20,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 20,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          }
+        ]
+      },
+      {
+        "exercise_template_id": "78683336",
+        "superset_id": null,
+        "notes": "Imported from Fitbod",
+        "sets": [
+          {
+            "type": "normal",
+            "weight_kg": 30,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 30,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 30,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Workout on 2024-10-26",
+    "description": "Imported from Fitbod",
+    "start_time": "2024-10-26T03:00:00.000Z",
+    "end_time": "2024-10-26T04:00:00.000Z",
+    "is_private": false,
+    "exercises": [
+      {
+        "exercise_template_id": "39C99849",
+        "superset_id": null,
+        "notes": "Imported from Fitbod",
+        "sets": [
+          {
+            "type": "normal",
+            "weight_kg": 0,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 0,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 0,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          }
+        ]
+      },
+      {
+        "exercise_template_id": "CD6DC8E5",
+        "superset_id": null,
+        "notes": "Imported from Fitbod",
+        "sets": [
+          {
+            "type": "normal",
+            "weight_kg": 0,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 0,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Workout on 2024-11-04",
+    "description": "Imported from Fitbod",
+    "start_time": "2024-11-04T03:00:00.000Z",
+    "end_time": "2024-11-04T04:00:00.000Z",
+    "is_private": false,
+    "exercises": [
+      {
+        "exercise_template_id": "A05C064D",
+        "superset_id": null,
+        "notes": "Imported from Fitbod",
+        "sets": [
+          {
+            "type": "normal",
+            "weight_kg": 40,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 40,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 40,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 40,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          }
+        ]
+      },
+      {
+        "exercise_template_id": "4E5257DE",
+        "superset_id": null,
+        "notes": "Imported from Fitbod",
+        "sets": [
+          {
+            "type": "normal",
+            "weight_kg": 45,
+            "reps": 9,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 45,
+            "reps": 6,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 47,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 47,
+            "reps": 9,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          }
+        ]
+      },
+      {
+        "exercise_template_id": "99fdbbf4-8d98-40f2-8d91-cf3299eb2245",
+        "superset_id": null,
+        "notes": "Imported from Fitbod",
+        "sets": [
+          {
+            "type": "normal",
+            "weight_kg": 15,
+            "reps": 15,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 15,
+            "reps": 15,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 5,
+            "reps": 15,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          }
+        ]
+      },
+      {
+        "exercise_template_id": "AA1EB7D8",
+        "superset_id": null,
+        "notes": "Imported from Fitbod",
+        "sets": [
+          {
+            "type": "normal",
+            "weight_kg": 30,
+            "reps": 15,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 30,
+            "reps": 15,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          }
+        ]
+      },
+      {
+        "exercise_template_id": "A5AC6449",
+        "superset_id": null,
+        "notes": "Imported from Fitbod",
+        "sets": [
+          {
+            "type": "normal",
+            "weight_kg": 22,
+            "reps": 5,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 22,
+            "reps": 5,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 22,
+            "reps": 8,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          }
+        ]
+      },
+      {
+        "exercise_template_id": "6A6C31A5",
+        "superset_id": null,
+        "notes": "Imported from Fitbod",
+        "sets": [
+          {
+            "type": "normal",
+            "weight_kg": 49,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 47,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 49,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Workout on 2025-01-20",
+    "description": "Imported from Fitbod",
+    "start_time": "2025-01-20T03:00:00.000Z",
+    "end_time": "2025-01-20T04:00:00.000Z",
+    "is_private": false,
+    "exercises": [
+      {
+        "exercise_template_id": "99fdbbf4-8d98-40f2-8d91-cf3299eb2245",
+        "superset_id": null,
+        "notes": "Imported from Fitbod",
+        "sets": [
+          {
+            "type": "normal",
+            "weight_kg": 15,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 15,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 15,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          }
+        ]
+      },
+      {
+        "exercise_template_id": "6AC96645",
+        "superset_id": null,
+        "notes": "Imported from Fitbod",
+        "sets": [
+          {
+            "type": "normal",
+            "weight_kg": 16,
+            "reps": 16,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 16,
+            "reps": 16,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 16,
+            "reps": 16,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          }
+        ]
+      },
+      {
+        "exercise_template_id": "C315DC2A",
+        "superset_id": null,
+        "notes": "Imported from Fitbod",
+        "sets": [
+          {
+            "type": "normal",
+            "weight_kg": 3,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 3,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 3,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          }
+        ]
+      },
+      {
+        "exercise_template_id": "6A6C31A5",
+        "superset_id": null,
+        "notes": "Imported from Fitbod",
+        "sets": [
+          {
+            "type": "normal",
+            "weight_kg": 50,
+            "reps": 6,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 50,
+            "reps": 8,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 45,
+            "reps": 6,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 50,
+            "reps": 5,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          }
+        ]
+      },
+      {
+        "exercise_template_id": "914F3A96",
+        "superset_id": null,
+        "notes": "Imported from Fitbod",
+        "sets": [
+          {
+            "type": "normal",
+            "weight_kg": 20,
+            "reps": 14,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 20,
+            "reps": 14,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 20,
+            "reps": 14,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          }
+        ]
+      },
+      {
+        "exercise_template_id": "8293E554",
+        "superset_id": null,
+        "notes": "Imported from Fitbod",
+        "sets": [
+          {
+            "type": "normal",
+            "weight_kg": 14,
+            "reps": 6,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 14,
+            "reps": 9,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 14,
+            "reps": 8,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          }
+        ]
+      },
+      {
+        "exercise_template_id": "2C37EC5E",
+        "superset_id": null,
+        "notes": "Imported from Fitbod",
+        "sets": [
+          {
+            "type": "normal",
+            "weight_kg": 65,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 65,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 60,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          }
+        ]
+      },
+      {
+        "exercise_template_id": "1DF4A847",
+        "superset_id": null,
+        "notes": "Imported from Fitbod",
+        "sets": [
+          {
+            "type": "normal",
+            "weight_kg": 30,
+            "reps": 12,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 40,
+            "reps": 12,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 50,
+            "reps": 12,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          }
+        ]
+      },
+      {
+        "exercise_template_id": "9237BAD1",
+        "superset_id": null,
+        "notes": "Imported from Fitbod",
+        "sets": [
+          {
+            "type": "normal",
+            "weight_kg": 20,
+            "reps": 15,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 17,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 20,
+            "reps": 13,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 12,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          }
+        ]
+      },
+      {
+        "exercise_template_id": "213AB238",
+        "superset_id": null,
+        "notes": "Imported from Fitbod",
+        "sets": [
+          {
+            "type": "normal",
+            "weight_kg": null,
+            "reps": null,
+            "distance_meters": null,
+            "duration_seconds": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Workout on 2025-01-11",
+    "description": "Imported from Fitbod",
+    "start_time": "2025-01-11T03:00:00.000Z",
+    "end_time": "2025-01-11T04:00:00.000Z",
+    "is_private": false,
+    "exercises": [
+      {
+        "exercise_template_id": "21310F5F",
+        "superset_id": null,
+        "notes": "Imported from Fitbod",
+        "sets": [
+          {
+            "type": "normal",
+            "weight_kg": 13,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 12,
+            "reps": 15,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 13,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 12,
+            "reps": 9,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 12,
+            "reps": 7,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 11,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          }
+        ]
+      },
+      {
+        "exercise_template_id": "32C4D4A2",
+        "superset_id": null,
+        "notes": "Imported from Fitbod",
+        "sets": [
+          {
+            "type": "normal",
+            "weight_kg": 10,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 10,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 10,
+            "reps": 12,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          }
+        ]
+      },
+      {
+        "exercise_template_id": "8BAB2735",
+        "superset_id": null,
+        "notes": "Imported from Fitbod",
+        "sets": [
+          {
+            "type": "normal",
+            "weight_kg": 16,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 16,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 16,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          }
+        ]
+      },
+      {
+        "exercise_template_id": "07B38369",
+        "superset_id": null,
+        "notes": "Imported from Fitbod",
+        "sets": [
+          {
+            "type": "normal",
+            "weight_kg": 24,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 24,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 24,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 24,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          }
+        ]
+      },
+      {
+        "exercise_template_id": "D3E2AB55",
+        "superset_id": null,
+        "notes": "Imported from Fitbod",
+        "sets": [
+          {
+            "type": "normal",
+            "weight_kg": 16,
+            "reps": 11,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 16,
+            "reps": 11,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 16,
+            "reps": 11,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          }
+        ]
+      },
+      {
+        "exercise_template_id": "78683336",
+        "superset_id": null,
+        "notes": "Imported from Fitbod",
+        "sets": [
+          {
+            "type": "normal",
+            "weight_kg": 30,
+            "reps": 12,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 30,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 30,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          }
+        ]
+      },
+      {
+        "exercise_template_id": "68F8A292",
+        "superset_id": null,
+        "notes": "Imported from Fitbod",
+        "sets": [
+          {
+            "type": "normal",
+            "weight_kg": 16,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 16,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          }
+        ]
+      },
+      {
+        "exercise_template_id": "ADA8623C",
+        "superset_id": null,
+        "notes": "Imported from Fitbod",
+        "sets": [
+          {
+            "type": "normal",
+            "weight_kg": 14,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 14,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 14,
+            "reps": 6,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          }
+        ]
+      },
+      {
+        "exercise_template_id": "24706DCD",
+        "superset_id": null,
+        "notes": "Imported from Fitbod",
+        "sets": [
+          {
+            "type": "normal",
+            "weight_kg": 13,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 13,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 12,
+            "reps": 12,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Workout on 2025-01-08",
+    "description": "Imported from Fitbod",
+    "start_time": "2025-01-08T03:00:00.000Z",
+    "end_time": "2025-01-08T04:00:00.000Z",
+    "is_private": false,
+    "exercises": [
+      {
+        "exercise_template_id": "AA1EB7D8",
+        "superset_id": null,
+        "notes": "Imported from Fitbod",
+        "sets": [
+          {
+            "type": "normal",
+            "weight_kg": 20,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 17,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 20,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          }
+        ]
+      },
+      {
+        "exercise_template_id": "6AC96645",
+        "superset_id": null,
+        "notes": "Imported from Fitbod",
+        "sets": [
+          {
+            "type": "normal",
+            "weight_kg": 24,
+            "reps": 8,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 24,
+            "reps": 8,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 24,
+            "reps": 6,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 24,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          }
+        ]
+      },
+      {
+        "exercise_template_id": "6A6C31A5",
+        "superset_id": null,
+        "notes": "Imported from Fitbod",
+        "sets": [
+          {
+            "type": "normal",
+            "weight_kg": 40,
+            "reps": 5,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 49,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 49,
+            "reps": 8,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 47,
+            "reps": 5,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          }
+        ]
+      },
+      {
+        "exercise_template_id": "B582299E",
+        "superset_id": null,
+        "notes": "Imported from Fitbod",
+        "sets": [
+          {
+            "type": "normal",
+            "weight_kg": 12,
+            "reps": 12,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 12,
+            "reps": 15,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 12,
+            "reps": 15,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          }
+        ]
+      },
+      {
+        "exercise_template_id": "4E5257DE",
+        "superset_id": null,
+        "notes": "Imported from Fitbod",
+        "sets": [
+          {
+            "type": "normal",
+            "weight_kg": 47,
+            "reps": 5,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 47,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          }
+        ]
+      },
+      {
+        "exercise_template_id": "422B08F1",
+        "superset_id": null,
+        "notes": "Imported from Fitbod",
+        "sets": [
+          {
+            "type": "normal",
+            "weight_kg": 10,
+            "reps": 12,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 10,
+            "reps": 15,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 10,
+            "reps": 19,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Workout on 2024-11-20",
+    "description": "Imported from Fitbod",
+    "start_time": "2024-11-20T03:00:00.000Z",
+    "end_time": "2024-11-20T04:00:00.000Z",
+    "is_private": false,
+    "exercises": [
+      {
+        "exercise_template_id": "2C37EC5E",
+        "superset_id": null,
+        "notes": "Imported from Fitbod",
+        "sets": [
+          {
+            "type": "normal",
+            "weight_kg": 52,
+            "reps": 8,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 45,
+            "reps": 5,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 54,
+            "reps": 7,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 49,
+            "reps": 5,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          }
+        ]
+      },
+      {
+        "exercise_template_id": "046E25A2",
+        "superset_id": null,
+        "notes": "Imported from Fitbod",
+        "sets": [
+          {
+            "type": "normal",
+            "weight_kg": 40,
+            "reps": 8,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 40,
+            "reps": 8,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 40,
+            "reps": 12,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 40,
+            "reps": 8,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          }
+        ]
+      },
+      {
+        "exercise_template_id": "914F3A96",
+        "superset_id": null,
+        "notes": "Imported from Fitbod",
+        "sets": [
+          {
+            "type": "normal",
+            "weight_kg": 20,
+            "reps": 14,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 20,
+            "reps": 14,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 20,
+            "reps": 14,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          }
+        ]
+      },
+      {
+        "exercise_template_id": "B9380898",
+        "superset_id": null,
+        "notes": "Imported from Fitbod",
+        "sets": [
+          {
+            "type": "normal",
+            "weight_kg": null,
+            "reps": null,
+            "distance_meters": 0,
+            "duration_seconds": null
+          },
+          {
+            "type": "normal",
+            "weight_kg": null,
+            "reps": null,
+            "distance_meters": 0,
+            "duration_seconds": null
+          }
+        ]
+      },
+      {
+        "exercise_template_id": "6A6C31A5",
+        "superset_id": null,
+        "notes": "Imported from Fitbod",
+        "sets": [
+          {
+            "type": "normal",
+            "weight_kg": 54,
+            "reps": 6,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 54,
+            "reps": 6,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 54,
+            "reps": 6,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 54,
+            "reps": 6,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          }
+        ]
+      },
+      {
+        "exercise_template_id": "37FCC2BB",
+        "superset_id": null,
+        "notes": "Imported from Fitbod",
+        "sets": [
+          {
+            "type": "normal",
+            "weight_kg": 16,
+            "reps": 7,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 16,
+            "reps": 8,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 20,
+            "reps": 9,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 20,
+            "reps": 9,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 20,
+            "reps": 9,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 16,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          }
+        ]
+      },
+      {
+        "exercise_template_id": "112FC6B7",
+        "superset_id": null,
+        "notes": "Imported from Fitbod",
+        "sets": [
+          {
+            "type": "normal",
+            "weight_kg": 14,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 14,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 14,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Workout on 2024-12-11",
+    "description": "Imported from Fitbod",
+    "start_time": "2024-12-11T03:00:00.000Z",
+    "end_time": "2024-12-11T04:00:00.000Z",
+    "is_private": false,
+    "exercises": [
+      {
+        "exercise_template_id": "08590920",
+        "superset_id": null,
+        "notes": "Imported from Fitbod",
+        "sets": [
+          {
+            "type": "normal",
+            "weight_kg": 0,
+            "reps": 20,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 0,
+            "reps": 15,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          }
+        ]
+      },
+      {
+        "exercise_template_id": "B74A95BB",
+        "superset_id": null,
+        "notes": "Imported from Fitbod",
+        "sets": [
+          {
+            "type": "normal",
+            "weight_kg": 0,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 0,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Workout on 2024-10-31",
+    "description": "Imported from Fitbod",
+    "start_time": "2024-10-31T03:00:00.000Z",
+    "end_time": "2024-10-31T04:00:00.000Z",
+    "is_private": false,
+    "exercises": [
+      {
+        "exercise_template_id": "12017185",
+        "superset_id": null,
+        "notes": "Imported from Fitbod",
+        "sets": [
+          {
+            "type": "normal",
+            "weight_kg": 18,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 20,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 18,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          }
+        ]
+      },
+      {
+        "exercise_template_id": "8293E554",
+        "superset_id": null,
+        "notes": "Imported from Fitbod",
+        "sets": [
+          {
+            "type": "normal",
+            "weight_kg": 14,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 14,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 14,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          }
+        ]
+      },
+      {
+        "exercise_template_id": "5122E7D9",
+        "superset_id": null,
+        "notes": "Imported from Fitbod",
+        "sets": [
+          {
+            "type": "normal",
+            "weight_kg": 40,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 40,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 40,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          }
+        ]
+      },
+      {
+        "exercise_template_id": "4B4BF8C2",
+        "superset_id": null,
+        "notes": "Imported from Fitbod",
+        "sets": [
+          {
+            "type": "normal",
+            "weight_kg": 47,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 40,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 40,
+            "reps": 8,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          }
+        ]
+      },
+      {
+        "exercise_template_id": "24706DCD",
+        "superset_id": null,
+        "notes": "Imported from Fitbod",
+        "sets": [
+          {
+            "type": "normal",
+            "weight_kg": 20,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 17,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 17,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          }
+        ]
+      },
+      {
+        "exercise_template_id": "68F8A292",
+        "superset_id": null,
+        "notes": "Imported from Fitbod",
+        "sets": [
+          {
+            "type": "normal",
+            "weight_kg": 18,
+            "reps": 7,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 20,
+            "reps": 5,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          },
+          {
+            "type": "normal",
+            "weight_kg": 18,
+            "reps": 10,
+            "distance_meters": 0,
+            "duration_seconds": 0
+          }
+        ]
+      }
+    ]
+  }
+]
