@@ -19,8 +19,7 @@ export const originalDataToGeneralExercises = (
     const exerciseMap = get_custom_equivalences();
 
     const exerciseName =
-      exerciseMap[entry.exercise_name] || entry.exercise_name;
-
+      exerciseMap[entry.exercise_name] ?? entry.exercise_name;
     return {
       metadata: {
         date: entry.date,
@@ -28,7 +27,7 @@ export const originalDataToGeneralExercises = (
         duration: entry.duration_seconds,
       },
       id: entry.date + exerciseName,
-      name: exerciseName,
+      name: exerciseName || "",
       weight: parseFloat(entry.weight_kg),
       reps: parseInt(entry.Reps),
       distance_meters: entry.distance_meters,

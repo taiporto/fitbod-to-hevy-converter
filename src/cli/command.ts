@@ -98,5 +98,5 @@ yargs(hideBin(process.argv))
     }
   )
   .alias("help", "-h")
-  .wrap(135)
+  .alias("version", "-v")
   .parse();
