@@ -3,21 +3,36 @@ import { CSVtoJSON } from "../utils/parsers/CSVtoJSON";
 import { originalDataToGeneralExercises } from "../utils/parsers/fitbodToHevyExersises";
 import { WorkoutBuilder } from "../main/hevy/workoutBuilder";
 import { WorkoutPublisher } from "../main/hevy/workoutPublisher";
-import { save_api_key, save_custom_equivalence, use_api_key } from "./db";
+import {
+  delete_custom_equivalences,
+  save_api_key,
+  save_equivalence,
+  use_api_key,
+} from "./db";
 import yoctoSpinner from "yocto-spinner";
+import chalk from "chalk";
 
 function initializeAPI() {
-  const hevyAPIKey = use_api_key();
-  return new HevyAPI(hevyAPIKey);
+  try {
+    const hevyAPIKey = use_api_key();
+    return new HevyAPI(hevyAPIKey);
+  } catch (err) {
+    console.log(
+      chalk.red("API Key not found. Set an API key with ") +
+        chalk.red.underline("hevy-toolbox set-api-key <apiKey>")
+    );
+    process.exit(1);
+  }
 }
 
 export async function setAPIKey(APIKey: string) {
+  const spinner = yoctoSpinner({ text: "Setting API key..." }).start();
   try {
     save_api_key(APIKey);
-    console.log("API Key has been saved");
+    spinner.success("API Key has been saved");
   } catch (err) {
     console.error(err);
-    console.log("Unable to save API Key");
+    spinner.error("Unable to save API Key");
   }
 }
 
@@ -101,7 +116,7 @@ export async function saveCustomEquivalence(
   }).start();
 
   try {
-    save_custom_equivalence(originalName, hevyName);
+    save_equivalence(originalName, hevyName, true);
     spinner.success("Custom equivalence saved");
   } catch (error) {
     spinner.error("Error saving custom equivalence");
@@ -121,11 +136,25 @@ export async function saveCustomEquivalenceInBulk(filePath: string) {
 
   try {
     jsonContent.forEach(({ originalName, hevyName }) => {
-      save_custom_equivalence(originalName, hevyName);
+      save_equivalence(originalName, hevyName, true);
     });
     spinner.success("Custom equivalences saved");
   } catch (error) {
     spinner.error("Error saving custom equivalences");
+    console.error(error);
+  }
+}
+
+export async function clearCustomEquivalences() {
+  const spinner = yoctoSpinner({
+    text: "Clearing custom equivalences...",
+  }).start();
+
+  try {
+    delete_custom_equivalences();
+    spinner.success("Custom equivalences cleared");
+  } catch (error) {
+    spinner.error("Error clearing custom equivalences");
     console.error(error);
   }
 }

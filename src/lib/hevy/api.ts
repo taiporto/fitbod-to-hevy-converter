@@ -45,7 +45,13 @@ export class HevyAPI {
       })
       .then((response) => response.data)
       .catch((error) => {
-        console.error("Error fetching template");
+        if (error.response.status === 401) {
+          console.error(
+            "\nError fetching templates: Please check your API key\n"
+          );
+        } else {
+          console.error("\nError fetching templates: ", error + "\n");
+        }
         return { page: 0, page_count: 0, exercise_templates: [] };
       });
   }

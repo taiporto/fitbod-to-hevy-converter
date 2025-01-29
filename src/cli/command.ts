@@ -2,6 +2,7 @@ import yargs from "yargs";
 import { hideBin } from "yargs/helpers";
 import {
   bulkPublish,
+  clearCustomEquivalences,
   convert,
   publish,
   saveCustomEquivalence,
@@ -96,6 +97,12 @@ yargs(hideBin(process.argv))
     (argv) => {
       saveCustomEquivalenceInBulk(argv.equivalencesFilePath as string);
     }
+  )
+  .command(
+    "clear-custom-equivalences",
+    "Clear all custom exercise equivalences from the database",
+    () => {},
+    () => clearCustomEquivalences()
   )
   .alias("help", "-h")
   .alias("version", "-v")

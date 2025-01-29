@@ -176,3 +176,4 @@ dist
 # Custom
 src/assets/*
 hevy-workouts.json
+file::memory:?cache=private
